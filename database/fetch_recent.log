@@ -1,200 +1,277 @@
-2025-01-30 00:28:04,527 - INFO - Total game translations fetched: 1245
-2025-01-30 00:28:07,207 - INFO - Added steam_id to existing entry for The Last Flame.
-2025-01-30 00:28:07,208 - INFO - Added steam_id to existing entry for Tails of Iron.
-2025-01-30 00:28:07,282 - INFO - Added 4 new game translations
-2025-01-30 00:28:07,283 - INFO - Fetching recent changes from 2025-01-29 00:27:47.418044 to 2025-01-30 00:28:07.283019
-2025-01-30 00:28:07,756 - INFO - 1. Saved in database: The History Channel: Battle of Britain - World War II 1940
-2025-01-30 00:28:07,939 - INFO - Found zh_CN for Gigantic: 巨兽之战
-2025-01-30 00:28:07,940 - INFO - 2. Saved in database: Gigantic
-2025-01-30 00:28:08,186 - INFO - No save locations found: Gigantic: Rampage Edition
-2025-01-30 00:28:08,325 - INFO - No save locations found: Lonely Mountains: Snow Riders
-2025-01-30 00:28:08,525 - INFO - 3. Saved in database: Eternal Strands
-2025-01-30 00:28:08,899 - INFO - 4. Saved in database: The History Channel: Civil War - Great Battles
-2025-01-30 00:28:09,080 - INFO - Found zh_CN for Shady Part of Me: 我的阴暗面
-2025-01-30 00:28:09,081 - INFO - 5. Saved in database: Shady Part of Me
-2025-01-30 00:28:09,194 - INFO - Found zh_CN for Blasphemous 2: 神之亵渎2
-2025-01-30 00:28:09,196 - INFO - 6. Saved in database: Blasphemous 2
-2025-01-30 00:28:09,430 - INFO - Found zh_CN for Star Wars: Knights of the Old Republic: 星球大战：旧共和国的武士
-2025-01-30 00:28:09,431 - INFO - 7. Saved in database: Star Wars: Knights of the Old Republic
-2025-01-30 00:28:09,554 - INFO - Found zh_CN for Alwa's Awakening: 奥瓦觉醒
-2025-01-30 00:28:09,556 - INFO - 8. Saved in database: Alwa's Awakening
-2025-01-30 00:28:09,827 - INFO - 9. Saved in database: Alwa's Legacy
-2025-01-30 00:28:09,919 - INFO - No save locations found: Citizen Sleeper 2: Starward Vector
-2025-01-30 00:28:10,146 - INFO - Found zh_CN for Star Wars: The Force Unleashed: 星球大战 原力释放
-2025-01-30 00:28:10,147 - INFO - 10. Saved in database: Star Wars: The Force Unleashed
-2025-01-30 00:28:10,273 - INFO - Found zh_CN for Frostpunk 2: 冰汽时代2
-2025-01-30 00:28:10,275 - INFO - 11. Saved in database: Frostpunk 2
-2025-01-30 00:28:10,465 - INFO - Found zh_CN for Star Wars: Empire at War: 星球大战：帝国战争
-2025-01-30 00:28:10,466 - INFO - 12. Saved in database: Star Wars: Empire at War
-2025-01-30 00:28:10,677 - INFO - Found zh_CN for Sniper Elite: Resistance: 狙击精英：抵抗
-2025-01-30 00:28:10,679 - INFO - 13. Saved in database: Sniper Elite: Resistance
-2025-01-30 00:28:10,848 - INFO - Found zh_CN for Stray: 迷失
-2025-01-30 00:28:10,849 - INFO - 14. Saved in database: Stray
-2025-01-30 00:28:11,118 - INFO - 15. Saved in database: Sonic Adventure DX
-2025-01-30 00:28:11,354 - INFO - 16. Saved in database: Skateboard Park Tycoon: World Tour 2003
-2025-01-30 00:28:11,453 - INFO - No save locations found: Rise of the Ronin
-2025-01-30 00:28:11,602 - INFO - Path not specified from {{p|game}}: Resident Evil 2
-2025-01-30 00:28:11,663 - INFO - Found zh_CN for Resident Evil 2: 生化危机2：重制版
-2025-01-30 00:28:11,665 - INFO - 17. Saved in database: Resident Evil 2
-2025-01-30 00:28:11,948 - INFO - 18. Saved in database: Resident Evil 4 Ultimate HD Edition
-2025-01-30 00:28:12,088 - INFO - Found zh_CN for Counter-Strike: Condition Zero: 反恐精英：零点行动
-2025-01-30 00:28:12,090 - INFO - 19. Saved in database: Counter-Strike: Condition Zero
-2025-01-30 00:28:12,293 - INFO - Found zh_CN for Unforeseen Incidents: 不可预见的事件
-2025-01-30 00:28:12,294 - INFO - 20. Saved in database: Unforeseen Incidents
-2025-01-30 00:28:12,534 - INFO - Found zh_CN for Mafia II: 四海兄弟2
-2025-01-30 00:28:12,535 - INFO - 21. Saved in database: Mafia II
-2025-01-30 00:28:12,726 - INFO - 22. Saved in database: Corridor Z
-2025-01-30 00:28:12,866 - INFO - Found zh_CN for Horizon Zero Dawn Remastered: 地平线：零之曙光重制版
-2025-01-30 00:28:12,867 - INFO - 23. Saved in database: Horizon Zero Dawn Remastered
-2025-01-30 00:28:12,968 - INFO - No save locations found: Mandragora
-2025-01-30 00:28:13,215 - INFO - No save locations found: Tyrion Cuthbert: Attorney of the Arcane
-2025-01-30 00:28:13,367 - INFO - Found zh_CN for Final Fantasy VII Rebirth: 最终幻想7：重生
-2025-01-30 00:28:13,368 - INFO - 24. Saved in database: Final Fantasy VII Rebirth
-2025-01-30 00:28:13,498 - INFO - Found zh_CN for Dino Crisis: 恐龙危机
-2025-01-30 00:28:13,499 - INFO - 25. Saved in database: Dino Crisis
-2025-01-30 00:28:13,640 - INFO - Found zh_CN for Dino Crisis 2: 恐龙危机2
-2025-01-30 00:28:13,641 - INFO - 26. Saved in database: Dino Crisis 2
-2025-01-30 00:28:13,641 - INFO - Finding game installation folders...
-2025-01-30 00:28:15,278 - INFO - Found installation folder for steam_id 327690
-2025-01-30 00:28:15,281 - INFO - Found installation folder for steam_id 1491410
-2025-01-30 00:28:15,284 - INFO - Found installation folder for steam_id 1116580
-2025-01-30 00:28:15,286 - INFO - Found installation folder for steam_id 2114740
-2025-01-30 00:28:15,289 - INFO - Found installation folder for steam_id 32370
-2025-01-30 00:28:15,292 - INFO - Found installation folder for steam_id 549260
-2025-01-30 00:28:15,294 - INFO - Found installation folder for steam_id 1205900
-2025-01-30 00:28:15,297 - INFO - Found installation folder for steam_id 32430
-2025-01-30 00:28:15,300 - INFO - Found installation folder for steam_id 1601580
-2025-01-30 00:28:15,302 - INFO - Found installation folder for steam_id 32470
-2025-01-30 00:28:15,305 - INFO - Found installation folder for steam_id 1332010
-2025-01-30 00:28:15,308 - INFO - Found installation folder for steam_id 254700
-2025-01-30 00:28:15,311 - INFO - Found installation folder for steam_id 80
-2025-01-30 00:28:15,314 - INFO - Found installation folder for steam_id 501790
-2025-01-30 00:28:15,316 - INFO - Found installation folder for steam_id 50130
-2025-01-30 00:28:15,319 - INFO - Found installation folder for steam_id 636070
-2025-01-30 00:28:15,322 - INFO - Found installation folder for steam_id 2561580
-2025-01-30 00:28:15,324 - INFO - Found installation folder for steam_id 2909400
-2025-01-30 00:28:15,325 - INFO - Continue parameter: {'rccontinue': '20250129092739|1918591', 'continue': '-||'}
-2025-01-30 00:28:15,606 - INFO - Found zh_CN for Final Fantasy VII: 最终幻想7
-2025-01-30 00:28:15,607 - INFO - 27. Saved in database: Final Fantasy VII
-2025-01-30 00:28:15,850 - INFO - 28. Saved in database: Final Fantasy VII (2012)
-2025-01-30 00:28:15,972 - INFO - No save locations found: Sub Culture
-2025-01-30 00:28:16,065 - INFO - Found zh_CN for Army Men: RTS: 玩具兵大战：即时战略版
-2025-01-30 00:28:16,067 - INFO - 29. Saved in database: Army Men: RTS
-2025-01-30 00:28:16,226 - INFO - Found zh_CN for Darklands: 黑暗纪元
-2025-01-30 00:28:16,227 - INFO - 30. Saved in database: Darklands
-2025-01-30 00:28:16,482 - INFO - 31. Saved in database: Worm.is: The Game
-2025-01-30 00:28:16,705 - INFO - Found zh_CN for Way of the Samurai 4: 侍道4
-2025-01-30 00:28:16,706 - INFO - 32. Saved in database: Way of the Samurai 4
-2025-01-30 00:28:16,899 - INFO - Found zh_CN for Toxikk: 剧毒子弹
-2025-01-30 00:28:16,901 - INFO - 33. Saved in database: Toxikk
-2025-01-30 00:28:17,180 - INFO - 34. Saved in database: Legacy of Kain: Soul Reaver 1 & 2 Remastered
-2025-01-30 00:28:17,272 - INFO - Path not specified from {{p|game}}: Army Men: Sarge's War
-2025-01-30 00:28:17,277 - INFO - Found zh_CN for Army Men: Sarge's War: 玩具兵大战：萨基战争
-2025-01-30 00:28:17,278 - INFO - 35. Saved in database: Army Men: Sarge's War
-2025-01-30 00:28:17,401 - INFO - Path not specified from {{p|game}}: Army Men: World War
-2025-01-30 00:28:17,407 - INFO - Found zh_CN for Army Men: World War: 玩具兵大战：世界大战
-2025-01-30 00:28:17,409 - INFO - 36. Saved in database: Army Men: World War
-2025-01-30 00:28:17,607 - INFO - 37. Saved in database: Army Men: Sarge's Heroes
-2025-01-30 00:28:17,726 - INFO - Found zh_CN for Day of the Tentacle Remastered: 触手也疯狂：重制版
-2025-01-30 00:28:17,727 - INFO - 38. Saved in database: Day of the Tentacle Remastered
-2025-01-30 00:28:17,825 - INFO - No save locations found: Army Men: Toys in Space
-2025-01-30 00:28:17,980 - INFO - No save locations found: Army Men II
-2025-01-30 00:28:18,085 - INFO - No save locations found: Army Men
-2025-01-30 00:28:18,338 - INFO - 39. Saved in database: Skateboard Park Tycoon 2004: Back in the USA
-2025-01-30 00:28:18,511 - INFO - No save locations found: MXGP 24
-2025-01-30 00:28:18,770 - INFO - Found zh_CN for Scene Investigators: 现场调查员
-2025-01-30 00:28:18,771 - INFO - 40. Saved in database: Scene Investigators
-2025-01-30 00:28:18,912 - INFO - Found zh_CN for Dead in Bermuda: 死在百慕大
-2025-01-30 00:28:18,914 - INFO - 41. Saved in database: Dead in Bermuda
-2025-01-30 00:28:19,179 - INFO - 42. Saved in database: Backyard Football '99
-2025-01-30 00:28:19,299 - INFO - No save locations found: The Shell Part III: Paradiso
-2025-01-30 00:28:19,569 - INFO - 43. Saved in database: Backyard Baseball 2001
-2025-01-30 00:28:19,778 - INFO - Found zh_CN for Echo: 回声
-2025-01-30 00:28:19,779 - INFO - 44. Saved in database: Echo
-2025-01-30 00:28:20,082 - INFO - Found zh_CN for The Shell Part I: Inferno: 壳之少女
-2025-01-30 00:28:20,083 - INFO - 45. Saved in database: The Shell Part I: Inferno
-2025-01-30 00:28:20,259 - INFO - No save locations found: The Shell Part II: Purgatorio
-2025-01-30 00:28:20,259 - INFO - Finding game installation folders...
-2025-01-30 00:28:22,444 - INFO - Found installation folder for steam_id 39140
-2025-01-30 00:28:22,447 - INFO - Found installation folder for steam_id 694500
-2025-01-30 00:28:22,450 - INFO - Found installation folder for steam_id 327930
-2025-01-30 00:28:22,453 - INFO - Found installation folder for steam_id 466910
-2025-01-30 00:28:22,455 - INFO - Found installation folder for steam_id 312780
-2025-01-30 00:28:22,458 - INFO - Found installation folder for steam_id 324810
-2025-01-30 00:28:22,461 - INFO - Found installation folder for steam_id 2521380
-2025-01-30 00:28:22,464 - INFO - Found installation folder for steam_id 388210
-2025-01-30 00:28:22,466 - INFO - Found installation folder for steam_id 1159830
-2025-01-30 00:28:22,469 - INFO - Found installation folder for steam_id 384310
-2025-01-30 00:28:22,472 - INFO - Found installation folder for steam_id 551770
-2025-01-30 00:28:22,474 - INFO - Found installation folder for steam_id 2258770
-2025-01-30 00:28:22,474 - INFO - Continue parameter: {'rccontinue': '20250129163026|1918660', 'continue': '-||'}
-2025-01-30 00:28:22,781 - INFO - Path not specified from {{p|game}}: Scarface: The World Is Yours
-2025-01-30 00:28:22,896 - INFO - 46. Saved in database: Scarface: The World Is Yours
-2025-01-30 00:28:23,167 - INFO - Found zh_CN for Shenmue I & II: 莎木I & II
-2025-01-30 00:28:23,168 - INFO - 47. Saved in database: Shenmue I & II
-2025-01-30 00:28:23,370 - INFO - No save locations found: The Last of Us Part II Remastered
-2025-01-30 00:28:23,584 - INFO - No save locations found: Marvel's Spider-Man 2
-2025-01-30 00:28:23,879 - INFO - No save locations found: Dying Light: The Beast
-2025-01-30 00:28:23,976 - INFO - Path not specified from {{p|game}}: Carmen Sandiego's Great Chase through Time
-2025-01-30 00:28:23,977 - INFO - Path not specified from {{p|game}}: Carmen Sandiego's Great Chase through Time
-2025-01-30 00:28:23,977 - INFO - No save locations found: Carmen Sandiego's Great Chase through Time
-2025-01-30 00:28:24,259 - INFO - 48. Saved in database: Georgie-Yolkie
-2025-01-30 00:28:24,387 - INFO - Found zh_CN for Betrayer: 背叛者
-2025-01-30 00:28:24,388 - INFO - 49. Saved in database: Betrayer
-2025-01-30 00:28:24,468 - INFO - No save locations found: Sentient
-2025-01-30 00:28:24,718 - INFO - No save locations found: The First Berserker: Khazan
-2025-01-30 00:28:24,942 - INFO - No save locations found: The End of the Sun
-2025-01-30 00:28:25,071 - INFO - Found zh_CN for Final Fantasy XII: The Zodiac Age: 最终幻想12 黄道纪元
-2025-01-30 00:28:25,072 - INFO - 50. Saved in database: Final Fantasy XII: The Zodiac Age
-2025-01-30 00:28:25,205 - INFO - Found zh_CN for Final Fantasy XVI: 最终幻想16
-2025-01-30 00:28:25,207 - INFO - 51. Saved in database: Final Fantasy XVI
-2025-01-30 00:28:25,401 - INFO - 52. Saved in database: Glyph
-2025-01-30 00:28:25,534 - INFO - Found zh_CN for It Takes Two: 双人成行
-2025-01-30 00:28:25,535 - INFO - 53. Saved in database: It Takes Two
-2025-01-30 00:28:25,693 - INFO - No save locations found: Glyph
-2025-01-30 00:28:25,881 - INFO - Found zh_CN for Marvel's Spider-Man Remastered: 漫威蜘蛛侠：重制版
-2025-01-30 00:28:25,882 - INFO - 54. Saved in database: Marvel's Spider-Man Remastered
-2025-01-30 00:28:25,971 - INFO - No save locations found: Grand Prix Legends
-2025-01-30 00:28:26,355 - INFO - 55. Saved in database: A Quiet Place: The Road Ahead
-2025-01-30 00:28:26,581 - INFO - 56. Saved in database: Wargasm
-2025-01-30 00:28:26,795 - INFO - Found zh_CN for Gabriel Knight: Sins of the Fathers: 狩魔猎人：父之罪
-2025-01-30 00:28:26,796 - INFO - 57. Saved in database: Gabriel Knight: Sins of the Fathers
-2025-01-30 00:28:26,935 - INFO - Found zh_CN for Nine Sols: 九日
-2025-01-30 00:28:26,936 - INFO - 58. Saved in database: Nine Sols
-2025-01-30 00:28:27,117 - INFO - Found zh_CN for Crash Bandicoot 4: It's About Time: 古惑狼4：时机已到
-2025-01-30 00:28:27,119 - INFO - 59. Saved in database: Crash Bandicoot 4: It's About Time
-2025-01-30 00:28:27,259 - INFO - No save locations found: R.B.I. Baseball 21
-2025-01-30 00:28:27,456 - INFO - Found zh_CN for Undertale: 传说之下
-2025-01-30 00:28:27,457 - INFO - 60. Saved in database: Undertale
-2025-01-30 00:28:27,557 - INFO - No save locations found: R.B.I. Baseball 20
-2025-01-30 00:28:27,642 - INFO - No save locations found: R.B.I. Baseball 16
-2025-01-30 00:28:27,787 - INFO - No save locations found: R.B.I. Baseball 15
-2025-01-30 00:28:27,898 - INFO - No save locations found: MLB Home Run Derby VR
-2025-01-30 00:28:27,898 - INFO - Finding game installation folders...
-2025-01-30 00:28:30,339 - INFO - Found installation folder for steam_id 758330
-2025-01-30 00:28:30,342 - INFO - Found installation folder for steam_id 3241020
-2025-01-30 00:28:30,345 - INFO - Found installation folder for steam_id 243120
-2025-01-30 00:28:30,347 - INFO - Found installation folder for steam_id 595520
-2025-01-30 00:28:30,350 - INFO - Found installation folder for steam_id 2515020
-2025-01-30 00:28:30,353 - INFO - Found installation folder for steam_id 1190530
-2025-01-30 00:28:30,355 - INFO - Found installation folder for steam_id 1426210
-2025-01-30 00:28:30,358 - INFO - Found installation folder for steam_id 1817070
-2025-01-30 00:28:30,361 - INFO - Found installation folder for steam_id 2233120
-2025-01-30 00:28:30,364 - INFO - Found installation folder for steam_id 495700
-2025-01-30 00:28:30,367 - INFO - Found installation folder for steam_id 1809540
-2025-01-30 00:28:30,369 - INFO - Found installation folder for steam_id 1378990
-2025-01-30 00:28:30,372 - INFO - Found installation folder for steam_id 391540
-2025-01-30 00:28:30,372 - INFO - Continue parameter: {'rccontinue': '20250129223544|1918718', 'continue': '-||'}
-2025-01-30 00:28:30,680 - INFO - 61. Saved in database: Resident Evil
-2025-01-30 00:28:30,836 - INFO - Found zh_CN for Nocturne: 夜曲惊魂
-2025-01-30 00:28:30,837 - INFO - 62. Saved in database: Nocturne
-2025-01-30 00:28:31,013 - INFO - Found zh_CN for Helldivers 2: 地狱潜者2
-2025-01-30 00:28:31,014 - INFO - 63. Saved in database: Helldivers 2
-2025-01-30 00:28:31,237 - INFO - 64. Saved in database: One Gun: Cat
-2025-01-30 00:28:31,428 - INFO - Found zh_CN for Sherlock Holmes: The Devil's Daughter: 福尔摩斯：恶魔的女儿
-2025-01-30 00:28:31,429 - INFO - 65. Saved in database: Sherlock Holmes: The Devil's Daughter
-2025-01-30 00:28:31,429 - INFO - Finding game installation folders...
-2025-01-30 00:28:33,565 - INFO - Found installation folder for steam_id 553850
-2025-01-30 00:28:33,568 - INFO - Found installation folder for steam_id 924900
-2025-01-30 00:28:33,571 - INFO - Found installation folder for steam_id 350640
-2025-01-30 00:28:33,571 - INFO - All recent changes fetched!
+2025-01-31 00:28:39,007 - INFO - Total game translations fetched: 1245
+2025-01-31 00:28:41,800 - INFO - Added 0 new game translations
+2025-01-31 00:28:41,801 - INFO - Fetching recent changes from 2025-01-30 00:27:07.283019 to 2025-01-31 00:28:41.801320
+2025-01-31 00:28:42,151 - INFO - No save locations found: NBA Hangtime
+2025-01-31 00:28:42,394 - INFO - 1. Saved in database: Skateboard Park Tycoon
+2025-01-31 00:28:45,482 - INFO - Found zh_CN for Dark: 黑暗潜伏者
+2025-01-31 00:28:45,484 - INFO - 2. Saved in database: Dark
+2025-01-31 00:28:45,809 - INFO - Found zh_CN for Dino Crisis 2: 恐龙危机2
+2025-01-31 00:28:45,811 - INFO - 3. Saved in database: Dino Crisis 2
+2025-01-31 00:28:46,044 - INFO - Found zh_CN for Mars: War Logs: 火星战记
+2025-01-31 00:28:46,046 - INFO - 4. Saved in database: Mars: War Logs
+2025-01-31 00:28:46,305 - INFO - Found zh_CN for Blasphemous 2: 神之亵渎2
+2025-01-31 00:28:46,306 - INFO - 5. Saved in database: Blasphemous 2
+2025-01-31 00:28:46,591 - INFO - Found zh_CN for Marvel's Spider-Man 2: 漫威蜘蛛侠2
+2025-01-31 00:28:46,592 - INFO - 6. Saved in database: Marvel's Spider-Man 2
+2025-01-31 00:28:48,848 - INFO - No save locations found: Citizen Sleeper 2: Starward Vector
+2025-01-31 00:28:49,006 - INFO - Found zh_CN for I Am Setsuna: 我是刹那
+2025-01-31 00:28:49,007 - INFO - 7. Saved in database: I Am Setsuna
+2025-01-31 00:28:51,169 - INFO - Found zh_CN for Lost Sphear: 失落领域
+2025-01-31 00:28:51,171 - INFO - 8. Saved in database: Lost Sphear
+2025-01-31 00:28:51,460 - INFO - Found zh_CN for Cyberpunk 2077: 赛博朋克2077
+2025-01-31 00:28:51,461 - INFO - 9. Saved in database: Cyberpunk 2077
+2025-01-31 00:28:51,650 - INFO - Path not specified from {{p|game}}: SCAR Squadra Corse Alfa Romeo
+2025-01-31 00:28:51,771 - INFO - 10. Saved in database: SCAR Squadra Corse Alfa Romeo
+2025-01-31 00:28:51,888 - INFO - Found zh_CN for Dino Crisis: 恐龙危机
+2025-01-31 00:28:51,889 - INFO - 11. Saved in database: Dino Crisis
+2025-01-31 00:28:52,059 - INFO - Found zh_CN for Snowboard Park Tycoon: 雪橇场大亨
+2025-01-31 00:28:52,061 - INFO - 12. Saved in database: Snowboard Park Tycoon
+2025-01-31 00:28:52,335 - INFO - Found zh_CN for Indiana Jones and the Great Circle: 夺宝奇兵：古老之圈
+2025-01-31 00:28:52,336 - INFO - 13. Saved in database: Indiana Jones and the Great Circle
+2025-01-31 00:28:52,554 - INFO - No save locations found: Grand Prix 4
+2025-01-31 00:28:52,759 - INFO - No save locations found: List of games that support tracked motion controllers in non-VR gameplay
+2025-01-31 00:28:53,037 - INFO - 14. Saved in database: Coridden
+2025-01-31 00:28:53,398 - INFO - Found zh_CN for VA-11 Hall-A: Cyberpunk Bartender Action: VA-11 Hall-A：赛博朋克酒保行动
+2025-01-31 00:28:53,399 - INFO - 15. Saved in database: VA-11 Hall-A: Cyberpunk Bartender Action
+2025-01-31 00:28:53,565 - INFO - Found zh_CN for Scene Investigators: 现场调查员
+2025-01-31 00:28:53,567 - INFO - 16. Saved in database: Scene Investigators
+2025-01-31 00:28:53,773 - INFO - Found zh_CN for Dead in Bermuda: 死在百慕大
+2025-01-31 00:28:53,775 - INFO - 17. Saved in database: Dead in Bermuda
+2025-01-31 00:28:54,121 - INFO - Found zh_CN for Dome Keeper: 穹顶守护者
+2025-01-31 00:28:54,123 - INFO - 18. Saved in database: Dome Keeper
+2025-01-31 00:28:55,680 - INFO - 19. Saved in database: Bookworm
+2025-01-31 00:28:56,765 - INFO - 20. Saved in database: Bookworm Adventures
+2025-01-31 00:28:56,901 - INFO - No save locations found: Karma: The Dark World
+2025-01-31 00:28:57,672 - INFO - No save locations found: Blast Thru
+2025-01-31 00:28:58,548 - INFO - No save locations found: Sub Culture
+2025-01-31 00:28:58,788 - INFO - 21. Saved in database: Cardfight!! Vanguard Dear Days 2
+2025-01-31 00:29:00,017 - INFO - Found zh_CN for Outcast 1.1: 时空英豪1.1
+2025-01-31 00:29:00,018 - INFO - 22. Saved in database: Outcast 1.1
+2025-01-31 00:29:00,134 - INFO - No save locations found: Gigantic: Rampage Edition
+2025-01-31 00:29:00,241 - INFO - No save locations found: Lonely Mountains: Snow Riders
+2025-01-31 00:29:00,477 - INFO - 23. Saved in database: Virtua Fighter 5 R.E.V.O.
+2025-01-31 00:29:00,690 - INFO - 24. Saved in database: Virtua Fighter 2 (2010)
+2025-01-31 00:29:00,884 - INFO - 25. Saved in database: Grimshade
+2025-01-31 00:29:02,430 - INFO - Found zh_CN for Cruise Ship Tycoon: 游轮大亨
+2025-01-31 00:29:02,432 - INFO - 26. Saved in database: Cruise Ship Tycoon
+2025-01-31 00:29:02,432 - INFO - Finding game installation folders...
+2025-01-31 00:29:05,116 - INFO - Found installation folder for steam_id 225360
+2025-01-31 00:29:05,119 - INFO - Found installation folder for steam_id 232750
+2025-01-31 00:29:05,122 - INFO - Found installation folder for steam_id 2114740
+2025-01-31 00:29:05,125 - INFO - Found installation folder for steam_id 2651280
+2025-01-31 00:29:05,128 - INFO - Found installation folder for steam_id 441830
+2025-01-31 00:29:05,131 - INFO - Found installation folder for steam_id 525240
+2025-01-31 00:29:05,134 - INFO - Found installation folder for steam_id 1091500
+2025-01-31 00:29:05,137 - INFO - Found installation folder for steam_id 2677660
+2025-01-31 00:29:05,140 - INFO - Found installation folder for steam_id 1656930
+2025-01-31 00:29:05,143 - INFO - Found installation folder for steam_id 447530
+2025-01-31 00:29:05,146 - INFO - Found installation folder for steam_id 1159830
+2025-01-31 00:29:05,149 - INFO - Found installation folder for steam_id 384310
+2025-01-31 00:29:05,151 - INFO - Found installation folder for steam_id 1637320
+2025-01-31 00:29:05,155 - INFO - Found installation folder for steam_id 3370
+2025-01-31 00:29:05,157 - INFO - Found installation folder for steam_id 3470
+2025-01-31 00:29:05,161 - INFO - Found installation folder for steam_id 2457540
+2025-01-31 00:29:05,164 - INFO - Found installation folder for steam_id 336610
+2025-01-31 00:29:05,166 - INFO - Found installation folder for steam_id 3112260
+2025-01-31 00:29:05,170 - INFO - Found installation folder for steam_id 858100
+2025-01-31 00:29:05,170 - INFO - Continue parameter: {'rccontinue': '20250130124503|1918792', 'continue': '-||'}
+2025-01-31 00:29:05,746 - INFO - Found zh_CN for Titanfall 2: 泰坦陨落2
+2025-01-31 00:29:05,747 - INFO - 27. Saved in database: Titanfall 2
+2025-01-31 00:29:05,963 - INFO - Found zh_CN for School Tycoon: 模拟学校大亨
+2025-01-31 00:29:05,964 - INFO - 28. Saved in database: School Tycoon
+2025-01-31 00:29:06,084 - INFO - No save locations found: The Shell Part III: Paradiso
+2025-01-31 00:29:06,266 - INFO - No save locations found: Seed Hunter
+2025-01-31 00:29:09,640 - INFO - No save locations found: Svarog's Dream
+2025-01-31 00:29:09,927 - INFO - Found zh_CN for Final Fantasy VII Remake Intergrade: 最终幻想7 重制版 间奏
+2025-01-31 00:29:09,930 - INFO - 29. Saved in database: Final Fantasy VII Remake Intergrade
+2025-01-31 00:29:10,231 - INFO - Found zh_CN for Children of Silentown: 寂静村的孩子们
+2025-01-31 00:29:10,233 - INFO - 30. Saved in database: Children of Silentown
+2025-01-31 00:29:10,440 - INFO - Found zh_CN for SpongeBob SquarePants: The Cosmic Shake: 海绵宝宝 摇动宇宙
+2025-01-31 00:29:10,441 - INFO - 31. Saved in database: SpongeBob SquarePants: The Cosmic Shake
+2025-01-31 00:29:14,098 - INFO - Found zh_CN for Monster Jam Steel Titans 2: 怪物卡车钢铁巨人2
+2025-01-31 00:29:14,100 - INFO - 32. Saved in database: Monster Jam Steel Titans 2
+2025-01-31 00:29:14,345 - INFO - Found zh_CN for Undying: 苏醒之路
+2025-01-31 00:29:14,347 - INFO - 33. Saved in database: Undying
+2025-01-31 00:29:18,185 - INFO - 34. Saved in database: OpenLoco
+2025-01-31 00:29:18,457 - INFO - Found zh_CN for Sniper Elite: Resistance: 狙击精英：抵抗
+2025-01-31 00:29:18,459 - INFO - 35. Saved in database: Sniper Elite: Resistance
+2025-01-31 00:29:18,635 - INFO - No save locations found: Wizrogue: Labyrinth of Wizardry
+2025-01-31 00:29:18,821 - INFO - No save locations found: Hello Kitty Island Adventure
+2025-01-31 00:29:19,095 - INFO - 36. Saved in database: God of War Ragnarök
+2025-01-31 00:29:19,357 - INFO - Found zh_CN for Trek to Yomi: 黄泉之路
+2025-01-31 00:29:19,359 - INFO - 37. Saved in database: Trek to Yomi
+2025-01-31 00:29:19,680 - INFO - 38. Saved in database: EA Sports WRC
+2025-01-31 00:29:19,824 - INFO - Found zh_CN for Deponia: 德波尼亚
+2025-01-31 00:29:19,825 - INFO - 39. Saved in database: Deponia
+2025-01-31 00:29:22,413 - INFO - Found zh_CN for Chaos on Deponia: 混乱的德波尼亚
+2025-01-31 00:29:22,415 - INFO - 40. Saved in database: Chaos on Deponia
+2025-01-31 00:29:24,494 - INFO - Found zh_CN for Goodbye Deponia: 再见德波尼亚
+2025-01-31 00:29:24,495 - INFO - 41. Saved in database: Goodbye Deponia
+2025-01-31 00:29:24,657 - INFO - Found zh_CN for Deponia Doomsday: 德波尼亚 世界末日
+2025-01-31 00:29:24,659 - INFO - 42. Saved in database: Deponia Doomsday
+2025-01-31 00:29:24,871 - INFO - Found zh_CN for Greak: Memories of Azur: 格雷克大冒险：阿祖尔的回忆
+2025-01-31 00:29:24,872 - INFO - 43. Saved in database: Greak: Memories of Azur
+2025-01-31 00:29:25,095 - INFO - Found zh_CN for American Fugitive: 美国逃犯
+2025-01-31 00:29:25,097 - INFO - 44. Saved in database: American Fugitive
+2025-01-31 00:29:25,484 - INFO - Found zh_CN for Blacktail: 女巫悲歌
+2025-01-31 00:29:25,485 - INFO - 45. Saved in database: Blacktail
+2025-01-31 00:29:25,917 - INFO - 46. Saved in database: Caravan SandWitch
+2025-01-31 00:29:26,111 - INFO - 47. Saved in database: Titan Station
+2025-01-31 00:29:26,384 - INFO - Found zh_CN for The Knight Witch: 魔骑少女
+2025-01-31 00:29:26,386 - INFO - 48. Saved in database: The Knight Witch
+2025-01-31 00:29:26,522 - INFO - Found zh_CN for Norco: 诺科
+2025-01-31 00:29:26,524 - INFO - 49. Saved in database: Norco
+2025-01-31 00:29:29,023 - INFO - No save locations found: Flat Eye
+2025-01-31 00:29:29,118 - INFO - No save locations found: Lost Soul Aside
+2025-01-31 00:29:29,118 - INFO - Finding game installation folders...
+2025-01-31 00:29:29,921 - INFO - Found installation folder for steam_id 1237970
+2025-01-31 00:29:29,924 - INFO - Found installation folder for steam_id 1462040
+2025-01-31 00:29:29,927 - INFO - Found installation folder for steam_id 1108000
+2025-01-31 00:29:29,930 - INFO - Found installation folder for steam_id 1282150
+2025-01-31 00:29:29,933 - INFO - Found installation folder for steam_id 1205480
+2025-01-31 00:29:29,936 - INFO - Found installation folder for steam_id 638990
+2025-01-31 00:29:29,940 - INFO - Found installation folder for steam_id 2169200
+2025-01-31 00:29:29,943 - INFO - Found installation folder for steam_id 2322010
+2025-01-31 00:29:29,946 - INFO - Found installation folder for steam_id 1370050
+2025-01-31 00:29:29,949 - INFO - Found installation folder for steam_id 1849250
+2025-01-31 00:29:29,952 - INFO - Found installation folder for steam_id 214340
+2025-01-31 00:29:29,954 - INFO - Found installation folder for steam_id 220740
+2025-01-31 00:29:29,958 - INFO - Found installation folder for steam_id 241910
+2025-01-31 00:29:29,961 - INFO - Found installation folder for steam_id 421050
+2025-01-31 00:29:29,964 - INFO - Found installation folder for steam_id 1311070
+2025-01-31 00:29:29,967 - INFO - Found installation folder for steam_id 934780
+2025-01-31 00:29:29,970 - INFO - Found installation folder for steam_id 1532690
+2025-01-31 00:29:29,973 - INFO - Found installation folder for steam_id 1582650
+2025-01-31 00:29:29,976 - INFO - Found installation folder for steam_id 1881120
+2025-01-31 00:29:29,979 - INFO - Found installation folder for steam_id 1872680
+2025-01-31 00:29:29,982 - INFO - Found installation folder for steam_id 1221250
+2025-01-31 00:29:29,982 - INFO - Continue parameter: {'rccontinue': '20250130181817|1918843', 'continue': '-||'}
+2025-01-31 00:29:30,528 - INFO - 50. Saved in database: Kao the Kangaroo (2022)
+2025-01-31 00:29:33,829 - INFO - Found zh_CN for Agatha Christie - Hercule Poirot: The First Cases: 阿加莎克里斯蒂：最初的案件
+2025-01-31 00:29:33,831 - INFO - 51. Saved in database: Agatha Christie - Hercule Poirot: The First Cases
+2025-01-31 00:29:34,276 - INFO - 52. Saved in database: Walt Disney World Quest: Magical Racing Tour
+2025-01-31 00:29:39,400 - INFO - 53. Saved in database: Between Horizons
+2025-01-31 00:29:39,693 - INFO - Found zh_CN for Dead in Vinland: 死在文兰
+2025-01-31 00:29:39,695 - INFO - 54. Saved in database: Dead in Vinland
+2025-01-31 00:29:40,046 - INFO - Found zh_CN for Final Fantasy VII Rebirth: 最终幻想7：重生
+2025-01-31 00:29:40,048 - INFO - 55. Saved in database: Final Fantasy VII Rebirth
+2025-01-31 00:29:44,973 - INFO - Found zh_CN for Bloodstained: Ritual of the Night: 赤痕：夜之仪式
+2025-01-31 00:29:44,975 - INFO - 56. Saved in database: Bloodstained: Ritual of the Night
+2025-01-31 00:29:45,103 - INFO - No save locations found: 1428: Shadows over Silesia
+2025-01-31 00:29:45,577 - INFO - Found zh_CN for Terminator: Resistance: 终结者：反抗军
+2025-01-31 00:29:45,579 - INFO - 57. Saved in database: Terminator: Resistance
+2025-01-31 00:29:45,770 - INFO - Found zh_CN for Conan: 科南
+2025-01-31 00:29:45,776 - INFO - 58. Saved in database: Conan
+2025-01-31 00:29:46,142 - INFO - Found zh_CN for Game of Thrones: 权力的游戏RPG
+2025-01-31 00:29:46,143 - INFO - 59. Saved in database: Game of Thrones
+2025-01-31 00:29:46,391 - INFO - Found zh_CN for Bound by Flame: 烈焰契约
+2025-01-31 00:29:46,393 - INFO - 60. Saved in database: Bound by Flame
+2025-01-31 00:29:46,606 - INFO - Found zh_CN for Steelrising: 钢铁崛起
+2025-01-31 00:29:46,608 - INFO - 61. Saved in database: Steelrising
+2025-01-31 00:29:46,820 - INFO - Found zh_CN for The Technomancer: 机械巫师
+2025-01-31 00:29:46,821 - INFO - 62. Saved in database: The Technomancer
+2025-01-31 00:29:47,019 - INFO - Found zh_CN for Brok the InvestiGator: 私家侦探布罗格
+2025-01-31 00:29:47,021 - INFO - 63. Saved in database: Brok the InvestiGator
+2025-01-31 00:29:47,239 - INFO - 64. Saved in database: Earthworm Jim 3D
+2025-01-31 00:29:49,224 - INFO - Found zh_CN for Thymesia: 记忆边境
+2025-01-31 00:29:49,226 - INFO - 65. Saved in database: Thymesia
+2025-01-31 00:29:49,377 - INFO - No save locations found: Arcade Paradise
+2025-01-31 00:29:49,601 - INFO - Found zh_CN for South of the Circle: 极圈以南
+2025-01-31 00:29:49,603 - INFO - 66. Saved in database: South of the Circle
+2025-01-31 00:29:49,837 - INFO - 67. Saved in database: Escape Machines
+2025-01-31 00:29:50,128 - INFO - 68. Saved in database: Asterix & Obelix XXL: Romastered
+2025-01-31 00:29:50,451 - INFO - 69. Saved in database: Asterix & Obelix XXL 2
+2025-01-31 00:29:52,149 - INFO - 70. Saved in database: Asterix & Obelix XXL 3: The Crystal Menhir
+2025-01-31 00:29:52,247 - INFO - No save locations found: Championship Manager: Season 01/02
+2025-01-31 00:29:52,451 - INFO - Found zh_CN for Door Kickers: Action Squad: 破门而入 行动小队
+2025-01-31 00:29:52,455 - INFO - 71. Saved in database: Door Kickers: Action Squad
+2025-01-31 00:29:52,577 - INFO - Found zh_CN for BloodRayne Betrayal: Fresh Bites: 吸血鬼莱恩：背叛新刺
+2025-01-31 00:29:52,578 - INFO - 72. Saved in database: BloodRayne Betrayal: Fresh Bites
+2025-01-31 00:29:52,873 - INFO - 73. Saved in database: BloodRayne: Terminal Cut
+2025-01-31 00:29:53,134 - INFO - 74. Saved in database: BloodRayne 2: Terminal Cut
+2025-01-31 00:29:53,249 - INFO - Found zh_CN for BloodRayne: Betrayal: 吸血莱恩：背叛
+2025-01-31 00:29:53,250 - INFO - 75. Saved in database: BloodRayne: Betrayal
+2025-01-31 00:29:53,583 - INFO - 76. Saved in database: Kane & Lynch 2: Dog Days
+2025-01-31 00:29:53,753 - INFO - No save locations found: Demon Sword: Incubus
+2025-01-31 00:29:53,932 - INFO - 77. Saved in database: Born Punk
+2025-01-31 00:29:54,105 - INFO - Found zh_CN for Horizon Zero Dawn: 地平线 零之曙光
+2025-01-31 00:29:54,107 - INFO - 78. Saved in database: Horizon Zero Dawn
+2025-01-31 00:29:54,295 - INFO - Found zh_CN for Saints Row IV: 黑道圣徒4
+2025-01-31 00:29:54,297 - INFO - 79. Saved in database: Saints Row IV
+2025-01-31 00:29:54,457 - INFO - Found zh_CN for Mad Max: 疯狂的麦克斯
+2025-01-31 00:29:54,462 - INFO - 80. Saved in database: Mad Max
+2025-01-31 00:29:54,602 - INFO - No save locations found: 3 Minutes to Midnight
+2025-01-31 00:29:54,734 - INFO - Path not specified from {{p|game}}: Prince of Persia: Warrior Within
+2025-01-31 00:29:54,864 - INFO - 81. Saved in database: Prince of Persia: Warrior Within
+2025-01-31 00:29:55,126 - INFO - 82. Saved in database: Blair Witch Volume 1: Rustin Parr
+2025-01-31 00:29:55,352 - INFO - Found zh_CN for BioShock Infinite: 生化奇兵 无限
+2025-01-31 00:29:55,354 - INFO - 83. Saved in database: BioShock Infinite
+2025-01-31 00:29:55,354 - INFO - Finding game installation folders...
+2025-01-31 00:29:56,219 - INFO - Found installation folder for steam_id 1370140
+2025-01-31 00:29:56,222 - INFO - Found installation folder for steam_id 1573720
+2025-01-31 00:29:56,225 - INFO - Found installation folder for steam_id 1921980
+2025-01-31 00:29:56,228 - INFO - Found installation folder for steam_id 573120
+2025-01-31 00:29:56,231 - INFO - Found installation folder for steam_id 2909400
+2025-01-31 00:29:56,234 - INFO - Found installation folder for steam_id 692850
+2025-01-31 00:29:56,237 - INFO - Found installation folder for steam_id 954740
+2025-01-31 00:29:56,243 - INFO - Found installation folder for steam_id 208730
+2025-01-31 00:29:56,245 - INFO - Found installation folder for steam_id 243930
+2025-01-31 00:29:56,248 - INFO - Found installation folder for steam_id 1283400
+2025-01-31 00:29:56,251 - INFO - Found installation folder for steam_id 338390
+2025-01-31 00:29:56,254 - INFO - Found installation folder for steam_id 949480
+2025-01-31 00:29:56,257 - INFO - Found installation folder for steam_id 41600
+2025-01-31 00:29:56,260 - INFO - Found installation folder for steam_id 1343240
+2025-01-31 00:29:56,263 - INFO - Found installation folder for steam_id 1811040
+2025-01-31 00:29:56,266 - INFO - Found installation folder for steam_id 363490
+2025-01-31 00:29:56,269 - INFO - Found installation folder for steam_id 1261520
+2025-01-31 00:29:56,272 - INFO - Found installation folder for steam_id 887060
+2025-01-31 00:29:56,275 - INFO - Found installation folder for steam_id 1109690
+2025-01-31 00:29:56,278 - INFO - Found installation folder for steam_id 686200
+2025-01-31 00:29:56,281 - INFO - Found installation folder for steam_id 1550260
+2025-01-31 00:29:56,284 - INFO - Found installation folder for steam_id 1373510
+2025-01-31 00:29:56,287 - INFO - Found installation folder for steam_id 1373550
+2025-01-31 00:29:56,290 - INFO - Found installation folder for steam_id 281220
+2025-01-31 00:29:56,293 - INFO - Found installation folder for steam_id 28000
+2025-01-31 00:29:56,296 - INFO - Found installation folder for steam_id 979480
+2025-01-31 00:29:56,299 - INFO - Found installation folder for steam_id 1151640
+2025-01-31 00:29:56,303 - INFO - Found installation folder for steam_id 206420
+2025-01-31 00:29:56,306 - INFO - Found installation folder for steam_id 234140
+2025-01-31 00:29:56,309 - INFO - Found installation folder for steam_id 13500
+2025-01-31 00:29:56,312 - INFO - Found installation folder for steam_id 8870
+2025-01-31 00:29:56,313 - INFO - Continue parameter: {'rccontinue': '20250130204637|1918900', 'continue': '-||'}
+2025-01-31 00:29:56,601 - INFO - Found zh_CN for Wuthering Waves: 鸣潮
+2025-01-31 00:29:56,604 - INFO - 84. Saved in database: Wuthering Waves
+2025-01-31 00:29:56,919 - INFO - 85. Saved in database: Blair Witch Volume 2: The Legend of Coffin Rock
+2025-01-31 00:29:57,065 - INFO - Found zh_CN for Instruments of Destruction: 毁灭工具
+2025-01-31 00:29:57,067 - INFO - 86. Saved in database: Instruments of Destruction
+2025-01-31 00:29:57,216 - INFO - Found zh_CN for F.E.A.R. 2: Project Origin: 极度恐慌2：起源计划
+2025-01-31 00:29:57,218 - INFO - 87. Saved in database: F.E.A.R. 2: Project Origin
+2025-01-31 00:29:57,398 - INFO - 88. Saved in database: Pools
+2025-01-31 00:29:57,488 - INFO - No save locations found: Anima Flux
+2025-01-31 00:29:57,810 - INFO - Found zh_CN for The Secret of Monkey Island: Special Edition: 猴岛小英雄 特别版
+2025-01-31 00:29:57,812 - INFO - 89. Saved in database: The Secret of Monkey Island: Special Edition
+2025-01-31 00:29:57,925 - INFO - No save locations found: London Racer
+2025-01-31 00:29:58,065 - INFO - No save locations found: Crazy Chicken: Approaching
+2025-01-31 00:29:58,205 - INFO - Found zh_CN for Mundaun: 蒙道恩
+2025-01-31 00:29:58,207 - INFO - 90. Saved in database: Mundaun
+2025-01-31 00:29:58,749 - INFO - No save locations found: List of games that support high-fidelity upscaling
+2025-01-31 00:29:58,924 - INFO - 91. Saved in database: Skout
+2025-01-31 00:29:59,176 - INFO - 92. Saved in database: Monkey Island 2 Special Edition: LeChuck's Revenge
+2025-01-31 00:29:59,273 - INFO - No save locations found: BROK - Natal Tail, A New Christmas
+2025-01-31 00:29:59,448 - INFO - 93. Saved in database: Arcomage
+2025-01-31 00:29:59,652 - INFO - 94. Saved in database: Emperor of the Fading Suns
+2025-01-31 00:29:59,898 - INFO - 95. Saved in database: Sanity: Aiken's Artifact
+2025-01-31 00:30:00,008 - INFO - No save locations found: Brutal John
+2025-01-31 00:30:00,247 - INFO - 96. Saved in database: Star Wars: Episode I - The Phantom Menace
+2025-01-31 00:30:00,338 - INFO - No save locations found: Edgar Torronteras' eXtreme Biker
+2025-01-31 00:30:00,532 - INFO - 97. Saved in database: Everest
+2025-01-31 00:30:00,739 - INFO - 98. Saved in database: Delta Force 2
+2025-01-31 00:30:00,740 - INFO - Finding game installation folders...
+2025-01-31 00:30:02,201 - INFO - Found installation folder for steam_id 1428100
+2025-01-31 00:30:02,204 - INFO - Found installation folder for steam_id 16450
+2025-01-31 00:30:02,207 - INFO - Found installation folder for steam_id 2663530
+2025-01-31 00:30:02,210 - INFO - Found installation folder for steam_id 32360
+2025-01-31 00:30:02,213 - INFO - Found installation folder for steam_id 720350
+2025-01-31 00:30:02,216 - INFO - Found installation folder for steam_id 32460
+2025-01-31 00:30:02,219 - INFO - Found installation folder for steam_id 32630
+2025-01-31 00:30:02,219 - INFO - All recent changes fetched!
