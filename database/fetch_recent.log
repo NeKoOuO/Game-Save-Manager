@@ -1,169 +1,181 @@
-2026-01-06 00:37:20,978 - INFO - Total game translations fetched: 1649
-2026-01-06 00:37:24,700 - INFO - Added 0 new game translations
-2026-01-06 00:37:24,701 - INFO - Fetching recent changes from 2026-01-05 00:39:29.816699 to 2026-01-06 00:37:24.701460
-2026-01-06 00:37:24,853 - WARNING - Failed to query recent changes (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=query&list=recentchanges&rcdir=newer&rcstart=2026-01-05T00%3A39%3A29.816699Z&rcend=2026-01-06T00%3A37%3A24.701460Z&rclimit=50&rcnamespace=0&format=json
-2026-01-06 00:37:24,980 - WARNING - Failed to process wikitext for Virtual Skipper 5: 32nd America's Cup - The Game (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=191475&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:25,261 - INFO - 1. Saved in database: Virtual Skipper 5: 32nd America's Cup - The Game
-2026-01-06 00:37:25,403 - INFO - Found zh_CN for Call of Duty: Ghosts: 使命召唤10：幽灵
-2026-01-06 00:37:25,404 - INFO - 2. Saved in database: Call of Duty: Ghosts
-2026-01-06 00:37:25,553 - INFO - Found zh_CN for Baldur's Gate 3: 博德之门3
-2026-01-06 00:37:25,554 - INFO - 3. Saved in database: Baldur's Gate 3
-2026-01-06 00:37:25,672 - WARNING - Failed to process wikitext for MX Nitro (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=56388&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:25,837 - INFO - No save locations found: MX Nitro
-2026-01-06 00:37:26,047 - INFO - Found zh_CN for South of Midnight: 午夜以南
-2026-01-06 00:37:26,049 - INFO - 4. Saved in database: South of Midnight
-2026-01-06 00:37:26,230 - INFO - Found zh_CN for Halo 2: Anniversary: 光环2：周年版
-2026-01-06 00:37:26,231 - INFO - 5. Saved in database: Halo 2: Anniversary
-2026-01-06 00:37:26,272 - WARNING - Failed to process wikitext for Red Dead Redemption 2 (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=147599&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:26,528 - INFO - 6. Saved in database: Red Dead Redemption 2
-2026-01-06 00:37:26,567 - WARNING - Failed to process wikitext for Shogun: Total War (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=4470&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:26,738 - INFO - Found zh_CN for Shogun: Total War: 幕府将军：全面战争
-2026-01-06 00:37:26,739 - INFO - 7. Saved in database: Shogun: Total War
-2026-01-06 00:37:26,923 - INFO - Found zh_CN for Planet Zoo: 动物园之星
-2026-01-06 00:37:26,924 - INFO - 8. Saved in database: Planet Zoo
-2026-01-06 00:37:27,141 - INFO - Found zh_CN for Titan Quest Anniversary Edition: 泰坦之旅周年版
-2026-01-06 00:37:27,143 - INFO - 9. Saved in database: Titan Quest Anniversary Edition
-2026-01-06 00:37:27,358 - INFO - 10. Saved in database: Cryostasis
-2026-01-06 00:37:27,519 - INFO - No save locations found: Tiny
-2026-01-06 00:37:27,745 - INFO - 11. Saved in database: Mortal Kombat: Legacy Kollection
-2026-01-06 00:37:27,893 - INFO - Found zh_CN for F.E.A.R. Perseus Mandate: 极度恐慌：珀尔修斯的指令
-2026-01-06 00:37:27,894 - INFO - 12. Saved in database: F.E.A.R. Perseus Mandate
-2026-01-06 00:37:28,062 - INFO - Found zh_CN for Deus Ex: Mankind Divided: 杀出重围：人类分裂
-2026-01-06 00:37:28,064 - INFO - 13. Saved in database: Deus Ex: Mankind Divided
-2026-01-06 00:37:28,102 - WARNING - Failed to process wikitext for The History Channel: Civil War - Great Battles (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=191984&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:28,370 - INFO - 14. Saved in database: The History Channel: Civil War - Great Battles
-2026-01-06 00:37:28,418 - WARNING - Failed to process wikitext for Barbie Fashion Designer (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=170638&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:28,455 - WARNING - Failed to process wikitext for Barbie Fashion Designer (attempt 2/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=170638&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:28,493 - WARNING - Failed to process wikitext for Barbie Fashion Designer (attempt 3/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=170638&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:28,533 - WARNING - Failed to process wikitext for Barbie Fashion Designer (attempt 4/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=170638&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:28,571 - WARNING - Failed to process wikitext for Barbie Fashion Designer (attempt 5/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=170638&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:28,626 - WARNING - Failed to process wikitext for Barbie Fashion Designer (attempt 6/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=170638&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:28,661 - WARNING - Failed to process wikitext for Barbie Fashion Designer (attempt 7/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=170638&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:28,714 - WARNING - Failed to process wikitext for Barbie Fashion Designer (attempt 8/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=170638&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:28,752 - WARNING - Failed to process wikitext for Barbie Fashion Designer (attempt 9/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=170638&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:28,864 - INFO - No save locations found: Barbie Fashion Designer
-2026-01-06 00:37:28,902 - WARNING - Failed to process wikitext for Outburst (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=65496&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:28,939 - WARNING - Failed to process wikitext for Outburst (attempt 2/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=65496&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:28,977 - WARNING - Failed to process wikitext for Outburst (attempt 3/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=65496&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:29,019 - WARNING - Failed to process wikitext for Outburst (attempt 4/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=65496&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:29,068 - WARNING - Failed to process wikitext for Outburst (attempt 5/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=65496&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:29,108 - WARNING - Failed to process wikitext for Outburst (attempt 6/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=65496&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:29,153 - WARNING - Failed to process wikitext for Outburst (attempt 7/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=65496&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:29,191 - WARNING - Failed to process wikitext for Outburst (attempt 8/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=65496&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:29,230 - WARNING - Failed to process wikitext for Outburst (attempt 9/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=65496&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:29,276 - WARNING - Failed to process wikitext for Outburst (attempt 10/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=65496&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:29,276 - ERROR - Error processing game entry for Outburst: 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=65496&prop=wikitext&format=json&redirects=1
-Traceback (most recent call last):
-  File "/home/runner/work/Game-Save-Manager/Game-Save-Manager/./database/database_fetcher.py", line 212, in process_games
-    wikitext = self.fetch_wikitext(wiki_page_id)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/Game-Save-Manager/Game-Save-Manager/./database/database_fetcher.py", line 267, in fetch_wikitext
-    response.raise_for_status()
-  File "/opt/hostedtoolcache/Python/3.12.12/x64/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
-    raise HTTPError(http_error_msg, response=self)
-requests.exceptions.HTTPError: 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=65496&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:29,277 - INFO - Continue parameter: {'rccontinue': '20260105125235|2120917', 'continue': '-||'}
-2026-01-06 00:37:29,314 - WARNING - Failed to query recent changes (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=query&list=recentchanges&rcdir=newer&rcstart=2026-01-05T00%3A39%3A29.816699Z&rcend=2026-01-06T00%3A37%3A24.701460Z&rclimit=50&rcnamespace=0&format=json&rccontinue=20260105125235%7C2120917&continue=-%7C%7C
-2026-01-06 00:37:29,356 - WARNING - Failed to query recent changes (attempt 2/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=query&list=recentchanges&rcdir=newer&rcstart=2026-01-05T00%3A39%3A29.816699Z&rcend=2026-01-06T00%3A37%3A24.701460Z&rclimit=50&rcnamespace=0&format=json&rccontinue=20260105125235%7C2120917&continue=-%7C%7C
-2026-01-06 00:37:29,398 - WARNING - Failed to query recent changes (attempt 3/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=query&list=recentchanges&rcdir=newer&rcstart=2026-01-05T00%3A39%3A29.816699Z&rcend=2026-01-06T00%3A37%3A24.701460Z&rclimit=50&rcnamespace=0&format=json&rccontinue=20260105125235%7C2120917&continue=-%7C%7C
-2026-01-06 00:37:29,436 - WARNING - Failed to query recent changes (attempt 4/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=query&list=recentchanges&rcdir=newer&rcstart=2026-01-05T00%3A39%3A29.816699Z&rcend=2026-01-06T00%3A37%3A24.701460Z&rclimit=50&rcnamespace=0&format=json&rccontinue=20260105125235%7C2120917&continue=-%7C%7C
-2026-01-06 00:37:29,471 - WARNING - Failed to query recent changes (attempt 5/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=query&list=recentchanges&rcdir=newer&rcstart=2026-01-05T00%3A39%3A29.816699Z&rcend=2026-01-06T00%3A37%3A24.701460Z&rclimit=50&rcnamespace=0&format=json&rccontinue=20260105125235%7C2120917&continue=-%7C%7C
-2026-01-06 00:37:29,511 - WARNING - Failed to query recent changes (attempt 6/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=query&list=recentchanges&rcdir=newer&rcstart=2026-01-05T00%3A39%3A29.816699Z&rcend=2026-01-06T00%3A37%3A24.701460Z&rclimit=50&rcnamespace=0&format=json&rccontinue=20260105125235%7C2120917&continue=-%7C%7C
-2026-01-06 00:37:29,553 - WARNING - Failed to query recent changes (attempt 7/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=query&list=recentchanges&rcdir=newer&rcstart=2026-01-05T00%3A39%3A29.816699Z&rcend=2026-01-06T00%3A37%3A24.701460Z&rclimit=50&rcnamespace=0&format=json&rccontinue=20260105125235%7C2120917&continue=-%7C%7C
-2026-01-06 00:37:29,903 - INFO - 15. Saved in database: The Sims 2 Legacy Collection
-2026-01-06 00:37:30,133 - INFO - Found zh_CN for The Crew: 飙酷车神
-2026-01-06 00:37:30,135 - INFO - 16. Saved in database: The Crew
-2026-01-06 00:37:30,405 - INFO - 17. Saved in database: PO'ed: Definitive Edition
-2026-01-06 00:37:30,626 - INFO - 18. Saved in database: Cyberia 2: Resurrection
-2026-01-06 00:37:30,909 - INFO - 19. Saved in database: Cyberia
-2026-01-06 00:37:30,961 - WARNING - Failed to process wikitext for Ninja Gaiden 4 (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=201052&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:31,149 - INFO - Found zh_CN for Ninja Gaiden 4: 忍者龙剑传4
-2026-01-06 00:37:31,150 - INFO - 20. Saved in database: Ninja Gaiden 4
-2026-01-06 00:37:31,329 - INFO - Found zh_CN for Evil West: 暗邪西部
-2026-01-06 00:37:31,331 - INFO - 21. Saved in database: Evil West
-2026-01-06 00:37:31,495 - INFO - Found zh_CN for Dead Secret: 死亡秘密
-2026-01-06 00:37:31,496 - INFO - 22. Saved in database: Dead Secret
-2026-01-06 00:37:31,635 - INFO - No save locations found: I Wanna Be the Guy
-2026-01-06 00:37:31,676 - WARNING - Failed to process wikitext for 7th Legion (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=15356&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:31,930 - INFO - 23. Saved in database: 7th Legion
-2026-01-06 00:37:32,158 - INFO - Found zh_CN for Trails in the Sky 1st Chapter: 空之轨迹 the 1st
-2026-01-06 00:37:32,160 - INFO - 24. Saved in database: Trails in the Sky 1st Chapter
-2026-01-06 00:37:32,200 - WARNING - Failed to process wikitext for Constructor (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=16066&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:32,317 - INFO - Found zh_CN for Constructor: 建设者
-2026-01-06 00:37:32,318 - INFO - 25. Saved in database: Constructor
-2026-01-06 00:37:32,536 - INFO - Found zh_CN for Terra Invicta: 地球不屈
-2026-01-06 00:37:32,537 - INFO - 26. Saved in database: Terra Invicta
-2026-01-06 00:37:32,580 - WARNING - Failed to process wikitext for Sega Rally Revo (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=59787&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:32,769 - INFO - Found zh_CN for Sega Rally Revo: 世嘉拉力Revo
-2026-01-06 00:37:32,770 - INFO - 27. Saved in database: Sega Rally Revo
-2026-01-06 00:37:32,829 - WARNING - Failed to process wikitext for MTV Celebrity Deathmatch (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=91337&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:33,041 - INFO - 28. Saved in database: MTV Celebrity Deathmatch
-2026-01-06 00:37:33,246 - INFO - Found zh_CN for TY the Tasmanian Tiger: 泰思虎奇幻冒险
-2026-01-06 00:37:33,248 - INFO - 29. Saved in database: TY the Tasmanian Tiger
-2026-01-06 00:37:33,282 - WARNING - Failed to process wikitext for Constructor Plus (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=136589&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:33,323 - WARNING - Failed to process wikitext for Constructor Plus (attempt 2/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=136589&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:33,446 - INFO - No save locations found: Constructor Plus
-2026-01-06 00:37:33,569 - INFO - Found zh_CN for Constructor HD: 建造者 HD
-2026-01-06 00:37:33,570 - INFO - 30. Saved in database: Constructor HD
-2026-01-06 00:37:33,768 - INFO - Found zh_CN for Tonic Trouble: 麻烦大了
-2026-01-06 00:37:33,769 - INFO - 31. Saved in database: Tonic Trouble
-2026-01-06 00:37:33,873 - INFO - No save locations found: The Last Ninja
-2026-01-06 00:37:34,139 - INFO - 32. Saved in database: Rayman 3: Hoodlum Havoc
-2026-01-06 00:37:34,184 - WARNING - Failed to process wikitext for Last Ninja 2: Back with a Vengeance (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=212623&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:34,316 - INFO - No save locations found: Last Ninja 2: Back with a Vengeance
-2026-01-06 00:37:34,360 - WARNING - Failed to process wikitext for Devil May Cry 4 (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=10174&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:34,492 - INFO - Found zh_CN for Devil May Cry 4: 鬼泣4
-2026-01-06 00:37:34,493 - INFO - 33. Saved in database: Devil May Cry 4
-2026-01-06 00:37:34,708 - INFO - 34. Saved in database: NetStorm - Islands At War
-2026-01-06 00:37:34,954 - INFO - 35. Saved in database: Conflict: Desert Storm II
-2026-01-06 00:37:35,230 - INFO - Found zh_CN for Star Wars: Jedi Knight - Mysteries of the Sith: 星球大战：绝地武士 西斯之谜
-2026-01-06 00:37:35,232 - INFO - 36. Saved in database: Star Wars: Jedi Knight - Mysteries of the Sith
-2026-01-06 00:37:35,530 - INFO - Found zh_CN for Total Annihilation: 横扫千军
-2026-01-06 00:37:35,532 - INFO - 37. Saved in database: Total Annihilation
-2026-01-06 00:37:35,640 - WARNING - Failed to process wikitext for Detroit: Become Human (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=131302&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:35,676 - WARNING - Failed to process wikitext for Detroit: Become Human (attempt 2/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=131302&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:35,829 - INFO - Found zh_CN for Detroit: Become Human: 底特律：化身为人
-2026-01-06 00:37:35,831 - INFO - 38. Saved in database: Detroit: Become Human
-2026-01-06 00:37:35,976 - INFO - Found zh_CN for Free Running: 自由奔跑
-2026-01-06 00:37:35,977 - INFO - 39. Saved in database: Free Running
-2026-01-06 00:37:36,174 - INFO - 40. Saved in database: My Winter Car
-2026-01-06 00:37:36,343 - INFO - Found zh_CN for Marvel Cosmic Invasion: 漫威宇宙入侵
-2026-01-06 00:37:36,516 - INFO - 41. Saved in database: Marvel Cosmic Invasion
-2026-01-06 00:37:36,758 - INFO - 42. Saved in database: Hitman: World of Assassination
-2026-01-06 00:37:36,798 - WARNING - Failed to process wikitext for Jett: The Far Shore (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=161055&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:36,839 - WARNING - Failed to process wikitext for Jett: The Far Shore (attempt 2/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=161055&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:36,877 - WARNING - Failed to process wikitext for Jett: The Far Shore (attempt 3/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=161055&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:37,044 - INFO - Found zh_CN for Jett: The Far Shore: JETT：遥远彼岸
-2026-01-06 00:37:37,045 - INFO - 43. Saved in database: Jett: The Far Shore
-2026-01-06 00:37:37,081 - WARNING - Failed to process wikitext for Independence Day (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=209328&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:37,116 - WARNING - Failed to process wikitext for Independence Day (attempt 2/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=209328&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:37,155 - WARNING - Failed to process wikitext for Independence Day (attempt 3/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=209328&prop=wikitext&format=json&redirects=1
-2026-01-06 00:37:37,295 - INFO - No save locations found: Independence Day
-2026-01-06 00:37:37,550 - INFO - 44. Saved in database: Resident Evil 4 (2023)
-2026-01-06 00:37:37,550 - INFO - Finding game installation folders...
-2026-01-06 00:37:39,984 - INFO - Found installation folder for steam_id 3314070
-2026-01-06 00:37:39,987 - INFO - Found installation folder for steam_id 241560
-2026-01-06 00:37:39,991 - INFO - Found installation folder for steam_id 2697470
-2026-01-06 00:37:39,994 - INFO - Found installation folder for steam_id 717720
-2026-01-06 00:37:39,997 - INFO - Found installation folder for steam_id 624080
-2026-01-06 00:37:40,000 - INFO - Found installation folder for steam_id 2627260
-2026-01-06 00:37:40,003 - INFO - Found installation folder for steam_id 1065310
-2026-01-06 00:37:40,006 - INFO - Found installation folder for steam_id 402260
-2026-01-06 00:37:40,010 - INFO - Found installation folder for steam_id 327910
-2026-01-06 00:37:40,013 - INFO - Found installation folder for steam_id 3375780
-2026-01-06 00:37:40,016 - INFO - Found installation folder for steam_id 599600
-2026-01-06 00:37:40,022 - INFO - Found installation folder for steam_id 1176470
-2026-01-06 00:37:40,025 - INFO - Found installation folder for steam_id 10400
-2026-01-06 00:37:40,028 - INFO - Found installation folder for steam_id 411960
-2026-01-06 00:37:40,031 - INFO - Found installation folder for steam_id 579020
-2026-01-06 00:37:40,034 - INFO - Found installation folder for steam_id 45700
-2026-01-06 00:37:40,037 - INFO - Found installation folder for steam_id 32390
-2026-01-06 00:37:40,040 - INFO - Found installation folder for steam_id 298030
-2026-01-06 00:37:40,043 - INFO - Found installation folder for steam_id 1222140
-2026-01-06 00:37:40,046 - INFO - Found installation folder for steam_id 254940
-2026-01-06 00:37:40,049 - INFO - Found installation folder for steam_id 4164420
-2026-01-06 00:37:40,052 - INFO - Found installation folder for steam_id 2753970
-2026-01-06 00:37:40,056 - INFO - Found installation folder for steam_id 1659040
-2026-01-06 00:37:40,059 - INFO - Found installation folder for steam_id 1761600
-2026-01-06 00:37:40,062 - INFO - Found installation folder for steam_id 2050650
-2026-01-06 00:37:40,062 - INFO - All recent changes fetched!
+2026-01-07 00:36:29,247 - INFO - Total game translations fetched: 1649
+2026-01-07 00:36:32,188 - INFO - Added 0 new game translations
+2026-01-07 00:36:32,189 - INFO - Fetching recent changes from 2026-01-06 00:36:24.701460 to 2026-01-07 00:36:32.189475
+2026-01-07 00:36:32,475 - WARNING - Failed to process wikitext for Assassin's Creed Unity (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=17713&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:32,680 - INFO - Found zh_CN for Assassin's Creed Unity: 刺客信条：大革命
+2026-01-07 00:36:32,686 - INFO - 1. Saved in database: Assassin's Creed Unity
+2026-01-07 00:36:32,889 - INFO - Found zh_CN for Command & Conquer: Red Alert 3: 命令与征服：红色警戒3
+2026-01-07 00:36:32,890 - INFO - 2. Saved in database: Command & Conquer: Red Alert 3
+2026-01-07 00:36:33,058 - INFO - No save locations found: Solitaire (XP)
+2026-01-07 00:36:33,136 - WARNING - Failed to process wikitext for Infinity Nikki (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=199816&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:33,402 - INFO - 3. Saved in database: Infinity Nikki
+2026-01-07 00:36:33,626 - INFO - Found zh_CN for Bus Simulator 21: 巴士模拟21
+2026-01-07 00:36:33,627 - INFO - 4. Saved in database: Bus Simulator 21
+2026-01-07 00:36:33,715 - WARNING - Failed to process wikitext for Need for Speed Payback (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=63244&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:33,957 - INFO - Found zh_CN for Need for Speed Payback: 极品飞车 复仇
+2026-01-07 00:36:33,958 - INFO - 5. Saved in database: Need for Speed Payback
+2026-01-07 00:36:34,123 - INFO - Found zh_CN for 7 Days to Die: 七日杀
+2026-01-07 00:36:34,125 - INFO - 6. Saved in database: 7 Days to Die
+2026-01-07 00:36:34,333 - INFO - Found zh_CN for Deus Ex: Mankind Divided: 杀出重围：人类分裂
+2026-01-07 00:36:34,334 - INFO - 7. Saved in database: Deus Ex: Mankind Divided
+2026-01-07 00:36:34,421 - WARNING - Failed to process wikitext for Call of Duty: Ghosts (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=7772&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:34,626 - INFO - Found zh_CN for Call of Duty: Ghosts: 使命召唤10：幽灵
+2026-01-07 00:36:34,628 - INFO - 8. Saved in database: Call of Duty: Ghosts
+2026-01-07 00:36:34,709 - WARNING - Failed to process wikitext for Prisoner of War: World War II (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=177553&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:35,018 - INFO - 9. Saved in database: Prisoner of War: World War II
+2026-01-07 00:36:35,209 - INFO - Found zh_CN for Dark Sector: 黑暗地带
+2026-01-07 00:36:35,210 - INFO - 10. Saved in database: Dark Sector
+2026-01-07 00:36:35,515 - INFO - 11. Saved in database: Age of Empires II: HD Edition
+2026-01-07 00:36:35,679 - INFO - No save locations found: Action Ball 2
+2026-01-07 00:36:35,759 - WARNING - Failed to process wikitext for Sid Meier's Civilization: Beyond Earth (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=16589&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:35,846 - WARNING - Failed to process wikitext for Sid Meier's Civilization: Beyond Earth (attempt 2/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=16589&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:36,158 - INFO - Found zh_CN for Sid Meier's Civilization: Beyond Earth: 文明 太空
+2026-01-07 00:36:36,160 - INFO - 12. Saved in database: Sid Meier's Civilization: Beyond Earth
+2026-01-07 00:36:36,478 - INFO - 13. Saved in database: Bladeline VR
+2026-01-07 00:36:36,641 - INFO - Found zh_CN for Barony: 男爵
+2026-01-07 00:36:36,642 - INFO - 14. Saved in database: Barony
+2026-01-07 00:36:36,953 - INFO - 15. Saved in database: 7 Days Blood Moons
+2026-01-07 00:36:37,304 - INFO - 16. Saved in database: The Settlers: Rise of an Empire
+2026-01-07 00:36:37,535 - INFO - 17. Saved in database: Cemu
+2026-01-07 00:36:37,733 - INFO - Found zh_CN for Assassin's Creed Origins: 刺客信条 起源
+2026-01-07 00:36:37,734 - INFO - 18. Saved in database: Assassin's Creed Origins
+2026-01-07 00:36:37,896 - INFO - No save locations found: Shadows on the Vatican: Nightingale
+2026-01-07 00:36:38,133 - INFO - Found zh_CN for Over the Hedge: 篱笆墙外
+2026-01-07 00:36:38,135 - INFO - 19. Saved in database: Over the Hedge
+2026-01-07 00:36:38,434 - INFO - 20. Saved in database: Cryostasis
+2026-01-07 00:36:38,699 - INFO - 21. Saved in database: Magical Girl Witch Trials
+2026-01-07 00:36:38,779 - WARNING - Failed to process wikitext for Sega Marine Fishing (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=212647&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:38,863 - WARNING - Failed to process wikitext for Sega Marine Fishing (attempt 2/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=212647&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:38,946 - WARNING - Failed to process wikitext for Sega Marine Fishing (attempt 3/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=212647&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:39,163 - INFO - Found zh_CN for Sega Marine Fishing: 世嘉深海钓鱼
+2026-01-07 00:36:39,164 - INFO - 22. Saved in database: Sega Marine Fishing
+2026-01-07 00:36:39,410 - INFO - 23. Saved in database: Metro Awakening
+2026-01-07 00:36:39,492 - WARNING - Failed to process wikitext for List of games that support Xbox One impulse triggers (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=158519&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:39,574 - WARNING - Failed to process wikitext for List of games that support Xbox One impulse triggers (attempt 2/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=158519&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:39,676 - WARNING - Failed to process wikitext for List of games that support Xbox One impulse triggers (attempt 3/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=158519&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:39,821 - INFO - No save locations found: List of games that support Xbox One impulse triggers
+2026-01-07 00:36:40,069 - INFO - 24. Saved in database: 1849
+2026-01-07 00:36:40,154 - WARNING - Failed to process wikitext for Unexplored 2: The Wayfarer's Legacy (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=138433&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:40,420 - INFO - Found zh_CN for Unexplored 2: The Wayfarer's Legacy: 未勘之地2：旅人遗产
+2026-01-07 00:36:40,422 - INFO - 25. Saved in database: Unexplored 2: The Wayfarer's Legacy
+2026-01-07 00:36:40,508 - WARNING - Failed to process wikitext for Witch It (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=55301&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:40,591 - WARNING - Failed to process wikitext for Witch It (attempt 2/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=55301&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:40,830 - INFO - Found zh_CN for Witch It: 女巫来了
+2026-01-07 00:36:40,832 - INFO - 26. Saved in database: Witch It
+2026-01-07 00:36:40,985 - INFO - No save locations found: Agreeee
+2026-01-07 00:36:41,152 - INFO - No save locations found: Star Trek: Infection
+2026-01-07 00:36:41,419 - INFO - 27. Saved in database: A.D. 2044
+2026-01-07 00:36:41,498 - WARNING - Failed to process wikitext for Star Wars: X-Wing (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=642&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:41,766 - INFO - 28. Saved in database: Star Wars: X-Wing
+2026-01-07 00:36:41,766 - INFO - Finding game installation folders...
+2026-01-07 00:36:42,856 - INFO - Found installation folder for steam_id 289650
+2026-01-07 00:36:42,860 - INFO - Found installation folder for steam_id 17480
+2026-01-07 00:36:42,863 - INFO - Found installation folder for steam_id 3164330
+2026-01-07 00:36:42,866 - INFO - Found installation folder for steam_id 976590
+2026-01-07 00:36:42,870 - INFO - Found installation folder for steam_id 1262580
+2026-01-07 00:36:42,873 - INFO - Found installation folder for steam_id 251570
+2026-01-07 00:36:42,876 - INFO - Found installation folder for steam_id 337000
+2026-01-07 00:36:42,879 - INFO - Found installation folder for steam_id 209160
+2026-01-07 00:36:42,882 - INFO - Found installation folder for steam_id 29900
+2026-01-07 00:36:42,886 - INFO - Found installation folder for steam_id 221380
+2026-01-07 00:36:42,889 - INFO - Found installation folder for steam_id 65980
+2026-01-07 00:36:42,892 - INFO - Found installation folder for steam_id 778110
+2026-01-07 00:36:42,895 - INFO - Found installation folder for steam_id 371970
+2026-01-07 00:36:42,898 - INFO - Found installation folder for steam_id 2312280
+2026-01-07 00:36:42,902 - INFO - Found installation folder for steam_id 15330
+2026-01-07 00:36:42,905 - INFO - Found installation folder for steam_id 582160
+2026-01-07 00:36:42,910 - INFO - Found installation folder for steam_id 7850
+2026-01-07 00:36:42,913 - INFO - Found installation folder for steam_id 3101040
+2026-01-07 00:36:42,916 - INFO - Found installation folder for steam_id 2669410
+2026-01-07 00:36:42,919 - INFO - Found installation folder for steam_id 290970
+2026-01-07 00:36:42,923 - INFO - Found installation folder for steam_id 1095040
+2026-01-07 00:36:42,926 - INFO - Found installation folder for steam_id 559650
+2026-01-07 00:36:42,929 - INFO - Found installation folder for steam_id 354430
+2026-01-07 00:36:42,930 - INFO - Continue parameter: {'rccontinue': '20260106153618|2121082', 'continue': '-||'}
+2026-01-07 00:36:43,341 - INFO - Found zh_CN for The Evil Within: 恶灵附身
+2026-01-07 00:36:43,342 - INFO - 29. Saved in database: The Evil Within
+2026-01-07 00:36:43,562 - INFO - Found zh_CN for Sudden Strike 2: 突袭2
+2026-01-07 00:36:43,563 - INFO - 30. Saved in database: Sudden Strike 2
+2026-01-07 00:36:43,645 - WARNING - Failed to process wikitext for Sudden Strike (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=21855&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:43,880 - INFO - Found zh_CN for Sudden Strike: 突袭
+2026-01-07 00:36:43,881 - INFO - 31. Saved in database: Sudden Strike
+2026-01-07 00:36:44,154 - INFO - Found zh_CN for Warhammer 40,000: Fire Warrior: 战锤40K：火焰战士
+2026-01-07 00:36:44,156 - INFO - 32. Saved in database: Warhammer 40,000: Fire Warrior
+2026-01-07 00:36:44,359 - INFO - Found zh_CN for Blitzkrieg: 闪电战
+2026-01-07 00:36:44,361 - INFO - 33. Saved in database: Blitzkrieg
+2026-01-07 00:36:44,541 - INFO - No save locations found: Blitzkrieg 2
+2026-01-07 00:36:44,739 - INFO - No save locations found: Blitzkrieg 3
+2026-01-07 00:36:44,822 - WARNING - Failed to process wikitext for The Incredible Hulk (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=80170&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:45,087 - INFO - 34. Saved in database: The Incredible Hulk
+2026-01-07 00:36:45,170 - WARNING - Failed to process wikitext for Dead Secret (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=43939&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:45,252 - WARNING - Failed to process wikitext for Dead Secret (attempt 2/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=43939&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:45,441 - INFO - Found zh_CN for Dead Secret: 死亡秘密
+2026-01-07 00:36:45,443 - INFO - 35. Saved in database: Dead Secret
+2026-01-07 00:36:45,745 - INFO - 36. Saved in database: Zenless Zone Zero
+2026-01-07 00:36:45,830 - WARNING - Failed to process wikitext for FlatOut (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=7101&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:46,032 - INFO - Found zh_CN for FlatOut: 横冲直撞
+2026-01-07 00:36:46,034 - INFO - 37. Saved in database: FlatOut
+2026-01-07 00:36:46,192 - INFO - No save locations found: Kirikou
+2026-01-07 00:36:46,275 - WARNING - Failed to process wikitext for Jett: The Far Shore (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=161055&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:46,478 - INFO - Found zh_CN for Jett: The Far Shore: JETT：遥远彼岸
+2026-01-07 00:36:46,480 - INFO - 38. Saved in database: Jett: The Far Shore
+2026-01-07 00:36:46,698 - INFO - Found zh_CN for Pathologic 2: 瘟疫2
+2026-01-07 00:36:46,699 - INFO - 39. Saved in database: Pathologic 2
+2026-01-07 00:36:46,996 - INFO - Found zh_CN for Story of Seasons: Friends of Mineral Town: 牧场物语：重聚矿石镇
+2026-01-07 00:36:46,998 - INFO - 40. Saved in database: Story of Seasons: Friends of Mineral Town
+2026-01-07 00:36:47,309 - INFO - 41. Saved in database: Mafia
+2026-01-07 00:36:47,565 - INFO - 42. Saved in database: Of the Devil
+2026-01-07 00:36:47,806 - INFO - 43. Saved in database: Mega Man Legends
+2026-01-07 00:36:48,025 - INFO - Found zh_CN for Dragon Ball: Sparking! Zero: 七龙珠 电光炸裂！ZERO
+2026-01-07 00:36:48,026 - INFO - 44. Saved in database: Dragon Ball: Sparking! Zero
+2026-01-07 00:36:48,338 - INFO - Found zh_CN for The Chronicles of Riddick: Assault on Dark Athena: 星际传奇 侵袭黑暗雅典娜
+2026-01-07 00:36:48,339 - INFO - 45. Saved in database: The Chronicles of Riddick: Assault on Dark Athena
+2026-01-07 00:36:48,421 - WARNING - Failed to process wikitext for Rayman 3: Hoodlum Havoc (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=9397&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:48,745 - INFO - 46. Saved in database: Rayman 3: Hoodlum Havoc
+2026-01-07 00:36:48,934 - INFO - Path not specified from {{p|game}}: Area 51 (2005)
+2026-01-07 00:36:49,030 - INFO - 47. Saved in database: Area 51 (2005)
+2026-01-07 00:36:49,108 - WARNING - Failed to process wikitext for 007 First Light (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=205132&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:49,277 - INFO - No save locations found: 007 First Light
+2026-01-07 00:36:49,277 - INFO - Finding game installation folders...
+2026-01-07 00:36:50,340 - INFO - Found installation folder for steam_id 268050
+2026-01-07 00:36:50,344 - INFO - Found installation folder for steam_id 612520
+2026-01-07 00:36:50,347 - INFO - Found installation folder for steam_id 612300
+2026-01-07 00:36:50,352 - INFO - Found installation folder for steam_id 313480
+2026-01-07 00:36:50,355 - INFO - Found installation folder for steam_id 10510
+2026-01-07 00:36:50,359 - INFO - Found installation folder for steam_id 402260
+2026-01-07 00:36:50,362 - INFO - Found installation folder for steam_id 6220
+2026-01-07 00:36:50,365 - INFO - Found installation folder for steam_id 1761600
+2026-01-07 00:36:50,368 - INFO - Found installation folder for steam_id 505230
+2026-01-07 00:36:50,372 - INFO - Found installation folder for steam_id 978780
+2026-01-07 00:36:50,375 - INFO - Found installation folder for steam_id 40990
+2026-01-07 00:36:50,378 - INFO - Found installation folder for steam_id 2739630
+2026-01-07 00:36:50,381 - INFO - Found installation folder for steam_id 1790600
+2026-01-07 00:36:50,385 - INFO - Found installation folder for steam_id 9860
+2026-01-07 00:36:50,385 - INFO - Continue parameter: {'rccontinue': '20260106205642|2121154', 'continue': '-||'}
+2026-01-07 00:36:50,608 - WARNING - Failed to process wikitext for Swashbucklers: Blue vs. Grey (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=212513&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:50,690 - WARNING - Failed to process wikitext for Swashbucklers: Blue vs. Grey (attempt 2/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=212513&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:50,847 - INFO - No save locations found: Swashbucklers: Blue vs. Grey
+2026-01-07 00:36:50,927 - WARNING - Failed to process wikitext for Sniper: Ghost Warrior Contracts (attempt 1/10): 502 Server Error: Bad Gateway for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=139599&prop=wikitext&format=json&redirects=1
+2026-01-07 00:36:51,185 - INFO - Found zh_CN for Sniper: Ghost Warrior Contracts: 狙击手：幽灵战士契约
+2026-01-07 00:36:51,187 - INFO - 48. Saved in database: Sniper: Ghost Warrior Contracts
+2026-01-07 00:36:51,488 - INFO - 49. Saved in database: Saya no Uta ~ The Song of Saya
+2026-01-07 00:36:51,671 - INFO - No save locations found: Hocus Focus
+2026-01-07 00:36:51,930 - INFO - 50. Saved in database: Diablo II
+2026-01-07 00:36:52,239 - INFO - 51. Saved in database: Life Is Strange: Double Exposure
+2026-01-07 00:36:52,399 - INFO - No save locations found: Lucky's Tale VR
+2026-01-07 00:36:52,721 - INFO - Found zh_CN for Until Dawn: 直到黎明
+2026-01-07 00:36:52,722 - INFO - 52. Saved in database: Until Dawn
+2026-01-07 00:36:52,995 - INFO - Found zh_CN for River City Ransom: Underground: 热血物语：地下世界
+2026-01-07 00:36:52,996 - INFO - 53. Saved in database: River City Ransom: Underground
+2026-01-07 00:36:53,260 - INFO - 54. Saved in database: Skin Deep
+2026-01-07 00:36:53,440 - INFO - Found zh_CN for Code Vein: 噬血代码
+2026-01-07 00:36:53,441 - INFO - 55. Saved in database: Code Vein
+2026-01-07 00:36:53,441 - INFO - Finding game installation folders...
+2026-01-07 00:36:53,979 - INFO - Found installation folder for steam_id 973580
+2026-01-07 00:36:53,982 - INFO - Found installation folder for steam_id 702050
+2026-01-07 00:36:53,986 - INFO - Found installation folder for steam_id 1874000
+2026-01-07 00:36:53,989 - INFO - Found installation folder for steam_id 2172010
+2026-01-07 00:36:53,992 - INFO - Found installation folder for steam_id 422810
+2026-01-07 00:36:53,997 - INFO - Found installation folder for steam_id 301280
+2026-01-07 00:36:54,000 - INFO - Found installation folder for steam_id 678960
+2026-01-07 00:36:54,000 - INFO - All recent changes fetched!
