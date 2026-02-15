@@ -1,393 +1,256 @@
-2026-02-14 00:43:58,671 - INFO - Total game translations fetched: 1670
-2026-02-14 00:44:01,527 - INFO - Added 0 new game translations
-2026-02-14 00:44:01,528 - INFO - Fetching recent changes from 2026-02-13 00:47:03.676595 to 2026-02-14 00:44:01.528667
-2026-02-14 00:44:01,980 - INFO - No save locations found: Total War: Pharaoh
-2026-02-14 00:44:02,201 - INFO - Found zh_CN for Batora: Lost Haven: 巴特拉：家在何方
-2026-02-14 00:44:02,209 - INFO - 1. Saved in database: Batora: Lost Haven
-2026-02-14 00:44:02,585 - INFO - 2. Saved in database: The Cycle: Frontier
-2026-02-14 00:44:02,922 - INFO - 3. Saved in database: Nobody Wants to Die
-2026-02-14 00:44:06,014 - INFO - Path not specified from {{p|game}}: The Diamond Mystery of Rosemond Valley
-2026-02-14 00:44:06,229 - INFO - 4. Saved in database: The Diamond Mystery of Rosemond Valley
-2026-02-14 00:44:06,532 - INFO - 5. Saved in database: Neva
-2026-02-14 00:44:06,861 - INFO - Found zh_CN for Yakuza Kiwami 3 & Dark Ties: 如龙 极３ / 如龙３外传 Dark Ties
-2026-02-14 00:44:06,863 - INFO - 6. Saved in database: Yakuza Kiwami 3 & Dark Ties
-2026-02-14 00:44:07,083 - INFO - Found zh_CN for Dino Crisis: 恐龙危机
-2026-02-14 00:44:07,084 - INFO - 7. Saved in database: Dino Crisis
-2026-02-14 00:44:07,337 - INFO - Found zh_CN for Dino Crisis 2: 恐龙危机2
-2026-02-14 00:44:07,339 - INFO - 8. Saved in database: Dino Crisis 2
-2026-02-14 00:44:07,610 - INFO - Found zh_CN for Shadow Warrior 3: 影子武士3
-2026-02-14 00:44:07,611 - INFO - 9. Saved in database: Shadow Warrior 3
-2026-02-14 00:44:07,786 - INFO - No save locations found: Silent Hill: Townfall
-2026-02-14 00:44:08,110 - INFO - 10. Saved in database: Signalis
-2026-02-14 00:44:08,481 - INFO - Found zh_CN for Riders Republic: 极限国度
-2026-02-14 00:44:08,483 - INFO - 11. Saved in database: Riders Republic
-2026-02-14 00:44:08,782 - INFO - 12. Saved in database: ARC Raiders
-2026-02-14 00:44:09,064 - INFO - 13. Saved in database: Tom Clancy's Ghost Recon: Future Soldier
-2026-02-14 00:44:11,277 - INFO - No save locations found: Wonderland
-2026-02-14 00:44:11,474 - INFO - No save locations found: Menace
-2026-02-14 00:44:11,737 - INFO - Found zh_CN for Driv3r: 车神3
-2026-02-14 00:44:11,738 - INFO - 14. Saved in database: Driv3r
-2026-02-14 00:44:11,908 - INFO - No save locations found: Castlevania: Belmont's Curse
-2026-02-14 00:44:12,220 - INFO - Found zh_CN for Pro Evolution Soccer 3: 实况足球3
-2026-02-14 00:44:12,222 - INFO - 15. Saved in database: Pro Evolution Soccer 3
-2026-02-14 00:44:12,416 - INFO - No save locations found: Death Stranding 2: On the Beach
-2026-02-14 00:44:12,601 - INFO - No save locations found: Night of the Dead
-2026-02-14 00:44:12,967 - INFO - No save locations found: Dead or Alive 6 Last Round
-2026-02-14 00:44:13,187 - INFO - No save locations found: Metal Gear Solid 4: Guns of the Patriots - Master Collection Version
-2026-02-14 00:44:13,496 - INFO - No save locations found: Metal Gear Solid: Peace Walker - Master Collection Version
-2026-02-14 00:44:13,664 - INFO - No save locations found: Metal Gear Solid: Peace Walker
-2026-02-14 00:44:13,847 - INFO - No save locations found: Metal Gear Solid 4: Guns of the Patriots
-2026-02-14 00:44:14,056 - INFO - Found zh_CN for Hollow Knight: Silksong: 空洞骑士 丝之歌
-2026-02-14 00:44:14,058 - INFO - 16. Saved in database: Hollow Knight: Silksong
-2026-02-14 00:44:14,315 - INFO - 17. Saved in database: Viewfinder
-2026-02-14 00:44:14,316 - INFO - Finding game installation folders...
-2026-02-14 00:44:15,187 - INFO - Found installation folder for steam_id 1506440
-2026-02-14 00:44:15,191 - INFO - Found installation folder for steam_id 868270
-2026-02-14 00:44:15,194 - INFO - Found installation folder for steam_id 1939970
-2026-02-14 00:44:15,198 - INFO - Found installation folder for steam_id 2420660
-2026-02-14 00:44:15,202 - INFO - Found installation folder for steam_id 3937550
-2026-02-14 00:44:15,206 - INFO - Found installation folder for steam_id 4249130
-2026-02-14 00:44:15,210 - INFO - Found installation folder for steam_id 4249140
-2026-02-14 00:44:15,213 - INFO - Found installation folder for steam_id 1036890
-2026-02-14 00:44:15,217 - INFO - Found installation folder for steam_id 1262350
-2026-02-14 00:44:15,221 - INFO - Found installation folder for steam_id 2290180
-2026-02-14 00:44:15,224 - INFO - Found installation folder for steam_id 1808500
-2026-02-14 00:44:15,228 - INFO - Found installation folder for steam_id 212630
-2026-02-14 00:44:15,232 - INFO - Found installation folder for steam_id 1030300
-2026-02-14 00:44:15,235 - INFO - Found installation folder for steam_id 1382070
-2026-02-14 00:44:15,236 - INFO - Continue parameter: {'rccontinue': '20260213064658|2130047', 'continue': '-||'}
-2026-02-14 00:44:15,537 - INFO - No save locations found: Darwin's Paradox!
-2026-02-14 00:44:15,823 - INFO - Found zh_CN for Hollow Knight: 空洞骑士
-2026-02-14 00:44:15,825 - INFO - 18. Saved in database: Hollow Knight
-2026-02-14 00:44:16,021 - INFO - Path not specified from {{p|game}}: Counter-Strike Online 2
-2026-02-14 00:44:16,021 - INFO - No save locations found: Counter-Strike Online 2
-2026-02-14 00:44:16,246 - INFO - Found zh_CN for Mirror's Edge: 镜之边缘
-2026-02-14 00:44:16,248 - INFO - 19. Saved in database: Mirror's Edge
-2026-02-14 00:44:16,469 - INFO - No save locations found: Digital rights management (DRM)
-2026-02-14 00:44:16,626 - INFO - Found zh_CN for Assassin's Creed II: 刺客信条2
-2026-02-14 00:44:16,627 - INFO - 20. Saved in database: Assassin's Creed II
-2026-02-14 00:44:16,826 - INFO - No save locations found: Venus Hostage
-2026-02-14 00:44:17,150 - INFO - Found zh_CN for Shadow of the Tomb Raider: 古墓丽影 暗影
-2026-02-14 00:44:17,152 - INFO - 21. Saved in database: Shadow of the Tomb Raider
-2026-02-14 00:44:19,888 - INFO - Found zh_CN for Vampire: The Masquerade - Bloodlines: 吸血鬼：避世血族
-2026-02-14 00:44:19,890 - INFO - 22. Saved in database: Vampire: The Masquerade - Bloodlines
-2026-02-14 00:44:20,169 - INFO - 23. Saved in database: Cars
-2026-02-14 00:44:20,540 - INFO - Found zh_CN for Snooker 19: 斯诺克19
-2026-02-14 00:44:20,541 - INFO - 24. Saved in database: Snooker 19
-2026-02-14 00:44:20,980 - INFO - 25. Saved in database: Fila World Tour Tennis
-2026-02-14 00:44:21,261 - INFO - 26. Saved in database: Reanimal
-2026-02-14 00:44:23,277 - INFO - Found zh_CN for AO International Tennis: 澳洲国际网球
-2026-02-14 00:44:23,279 - INFO - 27. Saved in database: AO International Tennis
-2026-02-14 00:44:23,523 - INFO - Found zh_CN for Matchpoint: Tennis Championships: 决胜点：网球锦标赛
-2026-02-14 00:44:23,524 - INFO - 28. Saved in database: Matchpoint: Tennis Championships
-2026-02-14 00:44:23,745 - INFO - Found zh_CN for Hitman 2: Silent Assassin: 杀手2：沉默刺客
-2026-02-14 00:44:23,746 - INFO - 29. Saved in database: Hitman 2: Silent Assassin
-2026-02-14 00:44:24,245 - INFO - Found zh_CN for Hitman: Contracts: 杀手：契约
-2026-02-14 00:44:24,247 - INFO - 30. Saved in database: Hitman: Contracts
-2026-02-14 00:44:24,527 - INFO - 31. Saved in database: Law & Order: Criminal Intent
-2026-02-14 00:44:24,800 - INFO - 32. Saved in database: Law & Order: Legacies
-2026-02-14 00:44:25,149 - INFO - 33. Saved in database: 1½ Ritter: Auf der Suche nach der hinreißenden Herzelinde
-2026-02-14 00:44:25,510 - INFO - 34. Saved in database: Legacy of Kain: Soul Reaver 1 & 2 Remastered
-2026-02-14 00:44:25,945 - INFO - 35. Saved in database: Formula Challenge
-2026-02-14 00:44:25,945 - INFO - Finding game installation folders...
-2026-02-14 00:44:28,376 - INFO - Found installation folder for steam_id 367520
-2026-02-14 00:44:28,380 - INFO - Found installation folder for steam_id 17410
-2026-02-14 00:44:28,383 - INFO - Found installation folder for steam_id 33230
-2026-02-14 00:44:28,387 - INFO - Found installation folder for steam_id 750920
-2026-02-14 00:44:28,391 - INFO - Found installation folder for steam_id 2600
-2026-02-14 00:44:28,394 - INFO - Found installation folder for steam_id 331160
-2026-02-14 00:44:28,398 - INFO - Found installation folder for steam_id 887800
-2026-02-14 00:44:28,402 - INFO - Found installation folder for steam_id 2129530
-2026-02-14 00:44:28,406 - INFO - Found installation folder for steam_id 758410
-2026-02-14 00:44:28,410 - INFO - Found installation folder for steam_id 1345760
-2026-02-14 00:44:28,414 - INFO - Found installation folder for steam_id 6850
-2026-02-14 00:44:28,417 - INFO - Found installation folder for steam_id 247430
-2026-02-14 00:44:28,421 - INFO - Found installation folder for steam_id 205330
-2026-02-14 00:44:28,425 - INFO - Found installation folder for steam_id 2521380
-2026-02-14 00:44:28,425 - INFO - Continue parameter: {'rccontinue': '20260213140652|2130106', 'continue': '-||'}
-2026-02-14 00:44:30,504 - INFO - Found zh_CN for Unreal Tournament 2004: 虚幻竞技场2004
-2026-02-14 00:44:30,506 - INFO - 36. Saved in database: Unreal Tournament 2004
-2026-02-14 00:44:31,011 - INFO - No save locations found: BrokenLore: Follow
-2026-02-14 00:44:31,262 - INFO - No save locations found: Dead Watch
-2026-02-14 00:44:34,434 - INFO - No save locations found: Dinoblade
-2026-02-14 00:44:34,594 - INFO - No save locations found: Duskfade
-2026-02-14 00:44:34,789 - INFO - No save locations found: Funi Raccoon Game
-2026-02-14 00:44:35,014 - INFO - No save locations found: I Am Jesus Christ
-2026-02-14 00:44:35,399 - INFO - No save locations found: Parasite Mutant
-2026-02-14 00:44:35,577 - INFO - No save locations found: The Occultist
-2026-02-14 00:44:35,777 - INFO - No save locations found: Tired of Being the Hero
-2026-02-14 00:44:36,184 - INFO - No save locations found: Death Stranding 2: On The Beach
-2026-02-14 00:44:36,458 - INFO - 37. Saved in database: Alone in the Dark 2
-2026-02-14 00:44:36,939 - INFO - Path not specified from {{p|game}}: Alone in the Dark 3
-2026-02-14 00:44:37,042 - INFO - 38. Saved in database: Alone in the Dark 3
-2026-02-14 00:44:37,242 - INFO - Found zh_CN for Elden Ring: 艾尔登法环
-2026-02-14 00:44:37,243 - INFO - 39. Saved in database: Elden Ring
-2026-02-14 00:44:37,419 - INFO - Found zh_CN for Alone in the Dark: 鬼屋魔影 重制版
-2026-02-14 00:44:37,421 - INFO - 40. Saved in database: Alone in the Dark
-2026-02-14 00:44:40,197 - INFO - 41. Saved in database: Toontown Online
-2026-02-14 00:44:40,342 - INFO - No save locations found: Vampire's Fall 2
-2026-02-14 00:44:40,593 - INFO - Found zh_CN for FreeSpace 2: 自由空间2
-2026-02-14 00:44:40,594 - INFO - 42. Saved in database: FreeSpace 2
-2026-02-14 00:44:40,762 - INFO - No save locations found: Legacy of Kain: Defiance Remastered
-2026-02-14 00:44:41,061 - INFO - 43. Saved in database: Prey (2017)
-2026-02-14 00:44:41,197 - WARNING - Failed to process wikitext for Virtual City (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=207277&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:41,456 - WARNING - Failed to process wikitext for Virtual City (attempt 2/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=207277&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:41,599 - WARNING - Failed to process wikitext for Virtual City (attempt 3/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=207277&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:41,849 - INFO - Found zh_CN for Virtual City: 虚拟城市
-2026-02-14 00:44:41,850 - INFO - 44. Saved in database: Virtual City
-2026-02-14 00:44:42,045 - INFO - Found zh_CN for Dark Souls Remastered: 黑暗之魂 重制版
-2026-02-14 00:44:42,046 - INFO - 45. Saved in database: Dark Souls Remastered
-2026-02-14 00:44:42,433 - INFO - 46. Saved in database: Dark Souls II: Scholar of the First Sin
-2026-02-14 00:44:42,733 - INFO - Found zh_CN for Dark Souls III: 黑暗之魂3
-2026-02-14 00:44:42,735 - INFO - 47. Saved in database: Dark Souls III
-2026-02-14 00:44:42,913 - WARNING - Failed to process wikitext for Death's Door (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=169381&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:43,129 - INFO - Found zh_CN for Death's Door: 死亡之门
-2026-02-14 00:44:43,131 - INFO - 48. Saved in database: Death's Door
-2026-02-14 00:44:43,380 - INFO - Found zh_CN for Spec Ops: The Line: 特殊行动：一线生机
-2026-02-14 00:44:43,381 - INFO - 49. Saved in database: Spec Ops: The Line
-2026-02-14 00:44:43,645 - INFO - Found zh_CN for Titan Souls: 泰坦之魂
-2026-02-14 00:44:43,647 - INFO - 50. Saved in database: Titan Souls
-2026-02-14 00:44:43,647 - INFO - Finding game installation folders...
-2026-02-14 00:44:45,639 - INFO - Found installation folder for steam_id 13230
-2026-02-14 00:44:45,643 - INFO - Found installation folder for steam_id 1245620
-2026-02-14 00:44:45,647 - INFO - Found installation folder for steam_id 273620
-2026-02-14 00:44:45,651 - INFO - Found installation folder for steam_id 480490
-2026-02-14 00:44:45,654 - INFO - Found installation folder for steam_id 570940
-2026-02-14 00:44:45,658 - INFO - Found installation folder for steam_id 335300
-2026-02-14 00:44:45,662 - INFO - Found installation folder for steam_id 374320
-2026-02-14 00:44:45,665 - INFO - Found installation folder for steam_id 894020
-2026-02-14 00:44:45,669 - INFO - Found installation folder for steam_id 50300
-2026-02-14 00:44:45,673 - INFO - Found installation folder for steam_id 297130
-2026-02-14 00:44:45,673 - INFO - Continue parameter: {'rccontinue': '20260213155032|2130157', 'continue': '-||'}
-2026-02-14 00:44:45,785 - WARNING - Failed to query recent changes (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=query&list=recentchanges&rcdir=newer&rcstart=2026-02-13T00%3A47%3A03.676595Z&rcend=2026-02-14T00%3A44%3A01.528667Z&rclimit=50&rcnamespace=0&format=json&rccontinue=20260213155032%7C2130157&continue=-%7C%7C
-2026-02-14 00:44:46,203 - INFO - 51. Saved in database: High on Life 2
-2026-02-14 00:44:46,461 - INFO - 52. Saved in database: Turok 2: Seeds of Evil (2017)
-2026-02-14 00:44:46,761 - INFO - 53. Saved in database: Turok 3: Shadow of Oblivion Remastered
-2026-02-14 00:44:47,151 - INFO - Found zh_CN for Portal 2: 传送门2
-2026-02-14 00:44:47,153 - INFO - 54. Saved in database: Portal 2
-2026-02-14 00:44:47,358 - INFO - Found zh_CN for Counter-Strike: Source: 反恐精英：起源
-2026-02-14 00:44:47,359 - INFO - 55. Saved in database: Counter-Strike: Source
-2026-02-14 00:44:47,527 - INFO - Found zh_CN for Day of Defeat: Source: 胜利之日：起源
-2026-02-14 00:44:47,528 - INFO - 56. Saved in database: Day of Defeat: Source
-2026-02-14 00:44:47,813 - INFO - Found zh_CN for Half-Life 2: 半条命2
-2026-02-14 00:44:47,814 - INFO - 57. Saved in database: Half-Life 2
-2026-02-14 00:44:48,009 - INFO - Path not specified from {{p|game}}: Half-Life 2: Deathmatch
-2026-02-14 00:44:48,120 - INFO - 58. Saved in database: Half-Life 2: Deathmatch
-2026-02-14 00:44:48,288 - INFO - No save locations found: Whirlight - No Time To Trip
-2026-02-14 00:44:48,572 - INFO - 59. Saved in database: Resident Evil
-2026-02-14 00:44:48,786 - INFO - Found zh_CN for Half-Life 2: Episode One: 半条命2第一部
-2026-02-14 00:44:48,788 - INFO - 60. Saved in database: Half-Life 2: Episode One
-2026-02-14 00:44:49,019 - INFO - Found zh_CN for Half-Life 2: Episode Two: 半条命2第二部
-2026-02-14 00:44:49,020 - INFO - 61. Saved in database: Half-Life 2: Episode Two
-2026-02-14 00:44:49,225 - INFO - Found zh_CN for Half-Life 2: Lost Coast: 半条命2：消失的海岸线
-2026-02-14 00:44:49,226 - INFO - 62. Saved in database: Half-Life 2: Lost Coast
-2026-02-14 00:44:49,450 - INFO - Found zh_CN for Half-Life Deathmatch: Source: 半条命2 死亡竞赛：起源
-2026-02-14 00:44:49,451 - INFO - 63. Saved in database: Half-Life Deathmatch: Source
-2026-02-14 00:44:49,655 - WARNING - Failed to process wikitext for Half-Life: Source (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=186&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:49,764 - WARNING - Failed to process wikitext for Half-Life: Source (attempt 2/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=186&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:49,886 - WARNING - Failed to process wikitext for Half-Life: Source (attempt 3/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=186&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:50,148 - INFO - Found zh_CN for Half-Life: Source: 半条命：起源
-2026-02-14 00:44:50,150 - INFO - 64. Saved in database: Half-Life: Source
-2026-02-14 00:44:50,268 - WARNING - Failed to process wikitext for Legacy of Kain: Ascendance (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=213709&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:50,414 - INFO - No save locations found: Legacy of Kain: Ascendance
-2026-02-14 00:44:50,608 - INFO - No save locations found: Rayman: 30th Anniversary Edition
-2026-02-14 00:44:50,943 - INFO - Found zh_CN for Left 4 Dead: 生存之旅
-2026-02-14 00:44:50,944 - INFO - 65. Saved in database: Left 4 Dead
-2026-02-14 00:44:51,242 - INFO - Found zh_CN for Left 4 Dead 2: 求生之路2
-2026-02-14 00:44:51,244 - INFO - 66. Saved in database: Left 4 Dead 2
-2026-02-14 00:44:51,544 - INFO - Found zh_CN for Team Fortress 2: 军团要塞2
-2026-02-14 00:44:51,546 - INFO - 67. Saved in database: Team Fortress 2
-2026-02-14 00:44:51,877 - INFO - 68. Saved in database: Doom (2016)
-2026-02-14 00:44:51,980 - WARNING - Failed to process wikitext for Rayman Jungle Run (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=19499&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:52,098 - WARNING - Failed to process wikitext for Rayman Jungle Run (attempt 2/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=19499&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:52,368 - INFO - 69. Saved in database: Rayman Jungle Run
-2026-02-14 00:44:52,472 - WARNING - Failed to process wikitext for Rayman Fiesta Run (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=74002&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:52,596 - WARNING - Failed to process wikitext for Rayman Fiesta Run (attempt 2/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=74002&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:52,710 - WARNING - Failed to process wikitext for Rayman Fiesta Run (attempt 3/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=74002&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:52,998 - INFO - 70. Saved in database: Rayman Fiesta Run
-2026-02-14 00:44:53,132 - WARNING - Failed to process wikitext for High on Life (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=181153&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:53,236 - WARNING - Failed to process wikitext for High on Life (attempt 2/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=181153&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:53,475 - INFO - Found zh_CN for High on Life: 嗨嗨人生
-2026-02-14 00:44:53,478 - INFO - 71. Saved in database: High on Life
-2026-02-14 00:44:53,607 - WARNING - Failed to process wikitext for Rayman Raving Rabbids (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=17912&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:53,721 - WARNING - Failed to process wikitext for Rayman Raving Rabbids (attempt 2/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=17912&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:53,833 - WARNING - Failed to process wikitext for Rayman Raving Rabbids (attempt 3/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=17912&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:53,944 - WARNING - Failed to process wikitext for Rayman Raving Rabbids (attempt 4/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=17912&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:54,061 - WARNING - Failed to process wikitext for Rayman Raving Rabbids (attempt 5/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=17912&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:54,328 - INFO - Found zh_CN for Rayman Raving Rabbids: 雷曼4：疯狂兔子
-2026-02-14 00:44:54,329 - INFO - 72. Saved in database: Rayman Raving Rabbids
-2026-02-14 00:44:54,329 - INFO - Finding game installation folders...
-2026-02-14 00:44:56,058 - INFO - Found installation folder for steam_id 2069250
-2026-02-14 00:44:56,062 - INFO - Found installation folder for steam_id 405830
-2026-02-14 00:44:56,066 - INFO - Found installation folder for steam_id 1996770
-2026-02-14 00:44:56,070 - INFO - Found installation folder for steam_id 620
-2026-02-14 00:44:56,074 - INFO - Found installation folder for steam_id 240
-2026-02-14 00:44:56,077 - INFO - Found installation folder for steam_id 300
-2026-02-14 00:44:56,082 - INFO - Found installation folder for steam_id 220
-2026-02-14 00:44:56,086 - INFO - Found installation folder for steam_id 320
-2026-02-14 00:44:56,090 - INFO - Found installation folder for steam_id 380
-2026-02-14 00:44:56,094 - INFO - Found installation folder for steam_id 420
-2026-02-14 00:44:56,098 - INFO - Found installation folder for steam_id 340
-2026-02-14 00:44:56,101 - INFO - Found installation folder for steam_id 360
-2026-02-14 00:44:56,105 - INFO - Found installation folder for steam_id 280
-2026-02-14 00:44:56,109 - INFO - Found installation folder for steam_id 500
-2026-02-14 00:44:56,113 - INFO - Found installation folder for steam_id 550
-2026-02-14 00:44:56,116 - INFO - Found installation folder for steam_id 440
-2026-02-14 00:44:56,120 - INFO - Found installation folder for steam_id 379720
-2026-02-14 00:44:56,124 - INFO - Found installation folder for steam_id 1583230
-2026-02-14 00:44:56,128 - INFO - Found installation folder for steam_id 15080
-2026-02-14 00:44:56,129 - INFO - Continue parameter: {'rccontinue': '20260213174523|2130221', 'continue': '-||'}
-2026-02-14 00:44:56,255 - WARNING - Failed to query recent changes (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=query&list=recentchanges&rcdir=newer&rcstart=2026-02-13T00%3A47%3A03.676595Z&rcend=2026-02-14T00%3A44%3A01.528667Z&rclimit=50&rcnamespace=0&format=json&rccontinue=20260213174523%7C2130221&continue=-%7C%7C
-2026-02-14 00:44:56,377 - WARNING - Failed to query recent changes (attempt 2/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=query&list=recentchanges&rcdir=newer&rcstart=2026-02-13T00%3A47%3A03.676595Z&rcend=2026-02-14T00%3A44%3A01.528667Z&rclimit=50&rcnamespace=0&format=json&rccontinue=20260213174523%7C2130221&continue=-%7C%7C
-2026-02-14 00:44:56,496 - WARNING - Failed to query recent changes (attempt 3/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=query&list=recentchanges&rcdir=newer&rcstart=2026-02-13T00%3A47%3A03.676595Z&rcend=2026-02-14T00%3A44%3A01.528667Z&rclimit=50&rcnamespace=0&format=json&rccontinue=20260213174523%7C2130221&continue=-%7C%7C
-2026-02-14 00:44:56,781 - WARNING - Failed to process wikitext for Machiavelli the Prince (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=163330&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:56,905 - WARNING - Failed to process wikitext for Machiavelli the Prince (attempt 2/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=163330&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:57,074 - INFO - No save locations found: Machiavelli the Prince
-2026-02-14 00:44:57,288 - INFO - Found zh_CN for Ghost Master: 鬼魂大师
-2026-02-14 00:44:57,290 - INFO - 73. Saved in database: Ghost Master
-2026-02-14 00:44:57,527 - INFO - No save locations found: Willy Morgan and the Curse of Bone Town
-2026-02-14 00:44:59,293 - INFO - No save locations found: Never Grave: The Witch and The Curse
-2026-02-14 00:44:59,588 - INFO - Found zh_CN for Unreal: 虚幻
-2026-02-14 00:44:59,589 - INFO - 74. Saved in database: Unreal
-2026-02-14 00:44:59,689 - WARNING - Failed to process wikitext for Unreal Tournament (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=1540&prop=wikitext&format=json&redirects=1
-2026-02-14 00:44:59,991 - INFO - Found zh_CN for Unreal Tournament: 虚幻竞技场2014
-2026-02-14 00:44:59,992 - INFO - 75. Saved in database: Unreal Tournament
-2026-02-14 00:45:00,133 - WARNING - Failed to process wikitext for Welcome to Doll Town (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=209430&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:00,251 - WARNING - Failed to process wikitext for Welcome to Doll Town (attempt 2/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=209430&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:00,415 - INFO - No save locations found: Welcome to Doll Town
-2026-02-14 00:45:00,528 - WARNING - Failed to process wikitext for Rogue Point (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=199199&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:00,694 - INFO - No save locations found: Rogue Point
-2026-02-14 00:45:01,019 - INFO - Found zh_CN for Nioh 3: 仁王3
-2026-02-14 00:45:01,020 - INFO - 76. Saved in database: Nioh 3
-2026-02-14 00:45:01,394 - INFO - Found zh_CN for New Super Lucky's Tale: 新超级幸运狐
-2026-02-14 00:45:01,395 - INFO - 77. Saved in database: New Super Lucky's Tale
-2026-02-14 00:45:01,582 - WARNING - Failed to process wikitext for Apex Legends (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=126989&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:01,812 - WARNING - Failed to process wikitext for Apex Legends (attempt 2/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=126989&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:02,493 - INFO - Found zh_CN for Apex Legends: Apex英雄
-2026-02-14 00:45:02,494 - INFO - 78. Saved in database: Apex Legends
-2026-02-14 00:45:02,734 - WARNING - Failed to process wikitext for Bugsnax (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=161042&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:02,974 - WARNING - Failed to process wikitext for Bugsnax (attempt 2/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=161042&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:03,384 - INFO - Found zh_CN for Bugsnax: 虫子快餐店
-2026-02-14 00:45:03,386 - INFO - 79. Saved in database: Bugsnax
-2026-02-14 00:45:03,806 - INFO - No save locations found: Cannons Lasers Rockets
-2026-02-14 00:45:04,449 - INFO - 80. Saved in database: Resident Evil Zero HD Remaster
-2026-02-14 00:45:04,645 - WARNING - Failed to process wikitext for Zombie Assault: Resurgence (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=202066&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:08,791 - INFO - 81. Saved in database: Zombie Assault: Resurgence
-2026-02-14 00:45:08,939 - WARNING - Failed to process wikitext for Family Guy: Back to the Multiverse (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=21821&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:09,055 - WARNING - Failed to process wikitext for Family Guy: Back to the Multiverse (attempt 2/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=21821&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:09,163 - WARNING - Failed to process wikitext for Family Guy: Back to the Multiverse (attempt 3/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=21821&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:09,274 - WARNING - Failed to process wikitext for Family Guy: Back to the Multiverse (attempt 4/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=21821&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:09,402 - WARNING - Failed to process wikitext for Family Guy: Back to the Multiverse (attempt 5/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=21821&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:09,618 - INFO - Found zh_CN for Family Guy: Back to the Multiverse: 恶搞之家：回归宇宙
-2026-02-14 00:45:09,619 - INFO - 82. Saved in database: Family Guy: Back to the Multiverse
-2026-02-14 00:45:09,840 - INFO - Found zh_CN for Car Mechanic Simulator 2018: 汽车修理工模拟2018
-2026-02-14 00:45:09,842 - INFO - 83. Saved in database: Car Mechanic Simulator 2018
-2026-02-14 00:45:12,306 - INFO - Found zh_CN for Gears of War: Reloaded: 战争机器：重装上阵
-2026-02-14 00:45:12,308 - INFO - 84. Saved in database: Gears of War: Reloaded
-2026-02-14 00:45:12,606 - INFO - Found zh_CN for Yakuza 5 Remastered: 如龙5：重制版
-2026-02-14 00:45:12,608 - INFO - 85. Saved in database: Yakuza 5 Remastered
-2026-02-14 00:45:12,742 - WARNING - Failed to process wikitext for Operation Matriarchy (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=213754&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:12,965 - INFO - Found zh_CN for Operation Matriarchy: 行动：女权主义
-2026-02-14 00:45:12,966 - INFO - 86. Saved in database: Operation Matriarchy
-2026-02-14 00:45:13,158 - WARNING - Failed to process wikitext for Deltarune (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=120545&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:13,411 - INFO - 87. Saved in database: Deltarune
-2026-02-14 00:45:13,411 - INFO - Finding game installation folders...
-2026-02-14 00:45:15,594 - INFO - Found installation folder for steam_id 6200
-2026-02-14 00:45:15,598 - INFO - Found installation folder for steam_id 13250
-2026-02-14 00:45:15,602 - INFO - Found installation folder for steam_id 13240
-2026-02-14 00:45:15,605 - INFO - Found installation folder for steam_id 3681010
-2026-02-14 00:45:15,610 - INFO - Found installation folder for steam_id 1038300
-2026-02-14 00:45:15,614 - INFO - Found installation folder for steam_id 1172470
-2026-02-14 00:45:15,617 - INFO - Found installation folder for steam_id 674140
-2026-02-14 00:45:15,621 - INFO - Found installation folder for steam_id 339340
-2026-02-14 00:45:15,625 - INFO - Found installation folder for steam_id 214230
-2026-02-14 00:45:15,629 - INFO - Found installation folder for steam_id 645630
-2026-02-14 00:45:15,632 - INFO - Found installation folder for steam_id 2523720
-2026-02-14 00:45:15,636 - INFO - Found installation folder for steam_id 1105510
-2026-02-14 00:45:15,640 - INFO - Found installation folder for steam_id 435420
-2026-02-14 00:45:15,644 - INFO - Found installation folder for steam_id 1671210
-2026-02-14 00:45:15,644 - INFO - Continue parameter: {'rccontinue': '20260213204635|2130295', 'continue': '-||'}
-2026-02-14 00:45:15,753 - WARNING - Failed to query recent changes (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=query&list=recentchanges&rcdir=newer&rcstart=2026-02-13T00%3A47%3A03.676595Z&rcend=2026-02-14T00%3A44%3A01.528667Z&rclimit=50&rcnamespace=0&format=json&rccontinue=20260213204635%7C2130295&continue=-%7C%7C
-2026-02-14 00:45:15,869 - WARNING - Failed to query recent changes (attempt 2/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=query&list=recentchanges&rcdir=newer&rcstart=2026-02-13T00%3A47%3A03.676595Z&rcend=2026-02-14T00%3A44%3A01.528667Z&rclimit=50&rcnamespace=0&format=json&rccontinue=20260213204635%7C2130295&continue=-%7C%7C
-2026-02-14 00:45:16,231 - INFO - No save locations found: S.R.A.C.S
-2026-02-14 00:45:16,364 - WARNING - Failed to process wikitext for Bad Day L.A. (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=30458&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:16,655 - INFO - 88. Saved in database: Bad Day L.A.
-2026-02-14 00:45:16,777 - WARNING - Failed to process wikitext for Resident Evil Requiem (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=205193&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:16,904 - WARNING - Failed to process wikitext for Resident Evil Requiem (attempt 2/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=205193&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:17,022 - WARNING - Failed to process wikitext for Resident Evil Requiem (attempt 3/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=205193&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:17,159 - WARNING - Failed to process wikitext for Resident Evil Requiem (attempt 4/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=205193&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:17,376 - INFO - No save locations found: Resident Evil Requiem
-2026-02-14 00:45:17,498 - WARNING - Failed to process wikitext for Climber Girl (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=61881&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:17,603 - WARNING - Failed to process wikitext for Climber Girl (attempt 2/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=61881&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:17,709 - WARNING - Failed to process wikitext for Climber Girl (attempt 3/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=61881&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:17,823 - WARNING - Failed to process wikitext for Climber Girl (attempt 4/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=61881&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:17,949 - WARNING - Failed to process wikitext for Climber Girl (attempt 5/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=61881&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:18,078 - WARNING - Failed to process wikitext for Climber Girl (attempt 6/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=61881&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:18,191 - WARNING - Failed to process wikitext for Climber Girl (attempt 7/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=61881&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:18,401 - WARNING - Failed to process wikitext for Climber Girl (attempt 8/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=61881&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:18,567 - WARNING - Failed to process wikitext for Climber Girl (attempt 9/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=61881&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:18,831 - INFO - 89. Saved in database: Climber Girl
-2026-02-14 00:45:19,099 - INFO - Found zh_CN for Undertale: 传说之下
-2026-02-14 00:45:19,101 - INFO - 90. Saved in database: Undertale
-2026-02-14 00:45:19,222 - WARNING - Failed to process wikitext for R.E.P.O. (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=202145&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:19,440 - INFO - Found zh_CN for R.E.P.O.: R.E.P.O.
-2026-02-14 00:45:19,441 - INFO - 91. Saved in database: R.E.P.O.
-2026-02-14 00:45:19,752 - INFO - Found zh_CN for Yakuza 3 Remastered: 如龙3：重制版
-2026-02-14 00:45:19,753 - INFO - 92. Saved in database: Yakuza 3 Remastered
-2026-02-14 00:45:19,953 - INFO - Found zh_CN for Contraband Police: 缉私警察
-2026-02-14 00:45:19,954 - INFO - 93. Saved in database: Contraband Police
-2026-02-14 00:45:20,179 - INFO - Found zh_CN for Operation: Matriarchy: 行动：女权主义
-2026-02-14 00:45:20,180 - INFO - 94. Saved in database: Operation: Matriarchy
-2026-02-14 00:45:20,345 - WARNING - Failed to process wikitext for Call of Duty: Black Ops (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=1654&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:20,609 - INFO - Found zh_CN for Call of Duty: Black Ops: 使命召唤：黑色行动
-2026-02-14 00:45:20,611 - INFO - 95. Saved in database: Call of Duty: Black Ops
-2026-02-14 00:45:20,876 - INFO - Found zh_CN for Neverwinter: 无冬Online
-2026-02-14 00:45:20,877 - INFO - 96. Saved in database: Neverwinter
-2026-02-14 00:45:21,078 - INFO - No save locations found: Relooted
-2026-02-14 00:45:21,078 - INFO - Finding game installation folders...
-2026-02-14 00:45:22,592 - INFO - Found installation folder for steam_id 1733020
-2026-02-14 00:45:22,596 - INFO - Found installation folder for steam_id 391540
-2026-02-14 00:45:22,600 - INFO - Found installation folder for steam_id 3241660
-2026-02-14 00:45:22,604 - INFO - Found installation folder for steam_id 1088710
-2026-02-14 00:45:22,608 - INFO - Found installation folder for steam_id 756800
-2026-02-14 00:45:22,611 - INFO - Found installation folder for steam_id 435420
-2026-02-14 00:45:22,615 - INFO - Found installation folder for steam_id 42700
-2026-02-14 00:45:22,619 - INFO - Found installation folder for steam_id 109600
-2026-02-14 00:45:22,619 - INFO - Continue parameter: {'rccontinue': '20260213221316|2130357', 'continue': '-||'}
-2026-02-14 00:45:24,526 - INFO - 97. Saved in database: Highguard
-2026-02-14 00:45:24,645 - WARNING - Failed to process wikitext for Spelunky 2 (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=162603&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:24,866 - INFO - Found zh_CN for Spelunky 2: 洞穴探险2
-2026-02-14 00:45:24,868 - INFO - 98. Saved in database: Spelunky 2
-2026-02-14 00:45:25,076 - INFO - Found zh_CN for Getting Over It with Bennett Foddy: 和班尼特福迪一起攻克难关
-2026-02-14 00:45:25,077 - INFO - 99. Saved in database: Getting Over It with Bennett Foddy
-2026-02-14 00:45:25,365 - INFO - 100. Saved in database: Mario Teaches Typing
-2026-02-14 00:45:25,636 - INFO - Found zh_CN for Scooby-Doo! First Frights: 史酷比：最初恐惧
-2026-02-14 00:45:25,637 - INFO - 101. Saved in database: Scooby-Doo! First Frights
-2026-02-14 00:45:25,913 - INFO - Found zh_CN for Scooby-Doo! and the Spooky Swamp: 史酷比：幽灵沼泽
-2026-02-14 00:45:25,914 - INFO - 102. Saved in database: Scooby-Doo! and the Spooky Swamp
-2026-02-14 00:45:26,220 - INFO - 103. Saved in database: Team Fortress 2 Classified
-2026-02-14 00:45:26,338 - WARNING - Failed to process wikitext for Lost in Harmony (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=76388&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:26,567 - INFO - Found zh_CN for Lost in Harmony: 梦境旋律
-2026-02-14 00:45:26,569 - INFO - 104. Saved in database: Lost in Harmony
-2026-02-14 00:45:26,832 - INFO - Found zh_CN for Race with Ryan: 与Ryan竞赛
-2026-02-14 00:45:26,833 - INFO - 105. Saved in database: Race with Ryan
-2026-02-14 00:45:26,987 - WARNING - Failed to process wikitext for Backyard Football 2006 (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=212352&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:27,187 - INFO - Found zh_CN for Backyard Football 2006: 后院橄榄球2006
-2026-02-14 00:45:27,188 - INFO - 106. Saved in database: Backyard Football 2006
-2026-02-14 00:45:27,355 - WARNING - Failed to process wikitext for Kingdom Come: Deliverance (attempt 1/10): 500 Server Error: Internal Server Error for url: https://www.pcgamingwiki.com/w/api.php?action=parse&pageid=20535&prop=wikitext&format=json&redirects=1
-2026-02-14 00:45:27,610 - INFO - Found zh_CN for Kingdom Come: Deliverance: 天国：拯救
-2026-02-14 00:45:27,611 - INFO - 107. Saved in database: Kingdom Come: Deliverance
-2026-02-14 00:45:27,611 - INFO - Finding game installation folders...
-2026-02-14 00:45:29,297 - INFO - Found installation folder for steam_id 4128260
-2026-02-14 00:45:29,301 - INFO - Found installation folder for steam_id 418530
-2026-02-14 00:45:29,305 - INFO - Found installation folder for steam_id 240720
-2026-02-14 00:45:29,309 - INFO - Found installation folder for steam_id 3545060
-2026-02-14 00:45:29,313 - INFO - Found installation folder for steam_id 509400
-2026-02-14 00:45:29,316 - INFO - Found installation folder for steam_id 1054990
-2026-02-14 00:45:29,320 - INFO - Found installation folder for steam_id 379430
-2026-02-14 00:45:29,320 - INFO - Continue parameter: {'rccontinue': '20260213234345|2130416', 'continue': '-||'}
-2026-02-14 00:45:29,791 - INFO - Found zh_CN for The Stalin Subway: 斯大林地铁
-2026-02-14 00:45:29,792 - INFO - 108. Saved in database: The Stalin Subway
-2026-02-14 00:45:29,792 - INFO - Finding game installation folders...
-2026-02-14 00:45:31,531 - INFO - Found installation folder for steam_id 311140
-2026-02-14 00:45:31,531 - INFO - All recent changes fetched!
+2026-02-15 00:48:40,165 - INFO - Total game translations fetched: 1672
+2026-02-15 00:48:43,858 - INFO - Added 2 new game translations
+2026-02-15 00:48:43,859 - INFO - Fetching recent changes from 2026-02-14 00:43:01.528667 to 2026-02-15 00:48:43.859210
+2026-02-15 00:48:44,358 - INFO - 1. Saved in database: High on Life 2
+2026-02-15 00:48:44,551 - INFO - Found zh_CN for Perimeter: 周界
+2026-02-15 00:48:44,553 - INFO - 2. Saved in database: Perimeter
+2026-02-15 00:48:44,678 - INFO - Found zh_CN for AI Limit: 无限机兵
+2026-02-15 00:48:44,680 - INFO - 3. Saved in database: AI Limit
+2026-02-15 00:48:44,806 - INFO - No save locations found: Planet of Lana II
+2026-02-15 00:48:44,982 - INFO - Found zh_CN for Ace Combat 7: Skies Unknown: 皇牌空战7 未知天空
+2026-02-15 00:48:44,984 - INFO - 4. Saved in database: Ace Combat 7: Skies Unknown
+2026-02-15 00:48:45,219 - INFO - 5. Saved in database: Alt-Frequencies
+2026-02-15 00:48:45,435 - INFO - Found zh_CN for Pinball FX: 三维弹球FX
+2026-02-15 00:48:45,436 - INFO - 6. Saved in database: Pinball FX
+2026-02-15 00:48:45,590 - INFO - No save locations found: Another Lost Phone: Laura's Story
+2026-02-15 00:48:45,745 - INFO - Found zh_CN for BlazBlue: Entropy Effect: 苍翼：混沌效应
+2026-02-15 00:48:45,746 - INFO - 7. Saved in database: BlazBlue: Entropy Effect
+2026-02-15 00:48:45,985 - INFO - Found zh_CN for Kingdom Come: Deliverance: 天国：拯救
+2026-02-15 00:48:45,986 - INFO - 8. Saved in database: Kingdom Come: Deliverance
+2026-02-15 00:48:46,136 - INFO - No save locations found: Roadside Research
+2026-02-15 00:48:46,275 - INFO - Found zh_CN for A Normal Lost Phone: 手机疑云
+2026-02-15 00:48:46,276 - INFO - 9. Saved in database: A Normal Lost Phone
+2026-02-15 00:48:46,468 - INFO - Found zh_CN for Starsand Island: 星砂岛
+2026-02-15 00:48:46,470 - INFO - 10. Saved in database: Starsand Island
+2026-02-15 00:48:46,690 - INFO - Found zh_CN for The Suffering: 劫难
+2026-02-15 00:48:46,692 - INFO - 11. Saved in database: The Suffering
+2026-02-15 00:48:46,920 - INFO - Found zh_CN for The Suffering: Ties That Bind: 劫难2：困兽
+2026-02-15 00:48:46,921 - INFO - 12. Saved in database: The Suffering: Ties That Bind
+2026-02-15 00:48:47,071 - INFO - No save locations found: Ace Combat 8: Wings of Theve
+2026-02-15 00:48:47,289 - INFO - Found zh_CN for Songs of Silence: 寂静之歌
+2026-02-15 00:48:47,290 - INFO - 13. Saved in database: Songs of Silence
+2026-02-15 00:48:47,527 - INFO - 14. Saved in database: ARC Raiders
+2026-02-15 00:48:47,781 - INFO - No save locations found: Sega Memorial Selection
+2026-02-15 00:48:47,932 - INFO - No save locations found: Platoon Leader
+2026-02-15 00:48:48,100 - INFO - No save locations found: Beast of Reincarnation
+2026-02-15 00:48:48,272 - INFO - No save locations found: Scud: Industrial Evolution
+2026-02-15 00:48:48,521 - INFO - Found zh_CN for Yakuza Kiwami 3 & Dark Ties: 如龙 极３ / 如龙３外传 Dark Ties
+2026-02-15 00:48:48,523 - INFO - 15. Saved in database: Yakuza Kiwami 3 & Dark Ties
+2026-02-15 00:48:48,669 - INFO - No save locations found: Galapagos
+2026-02-15 00:48:48,845 - INFO - Found zh_CN for Family Guy: Back to the Multiverse: 恶搞之家：回归宇宙
+2026-02-15 00:48:48,846 - INFO - 16. Saved in database: Family Guy: Back to the Multiverse
+2026-02-15 00:48:48,965 - INFO - No save locations found: Bylina
+2026-02-15 00:48:49,136 - INFO - Found zh_CN for Divinity II: Developer's Cut: 神界2：开发者剪辑版
+2026-02-15 00:48:49,137 - INFO - 17. Saved in database: Divinity II: Developer's Cut
+2026-02-15 00:48:49,275 - INFO - Found zh_CN for Aliens Versus Predator 2: 异形大战铁血战士2
+2026-02-15 00:48:49,276 - INFO - 18. Saved in database: Aliens Versus Predator 2
+2026-02-15 00:48:49,419 - INFO - Found zh_CN for Cat Quest: 喵咪斗恶龙
+2026-02-15 00:48:49,420 - INFO - 19. Saved in database: Cat Quest
+2026-02-15 00:48:49,690 - INFO - 20. Saved in database: Enderal: Forgotten Stories (Special Edition)
+2026-02-15 00:48:49,930 - INFO - 21. Saved in database: Reanimal
+2026-02-15 00:48:50,119 - INFO - No save locations found: Tarisland
+2026-02-15 00:48:50,321 - INFO - Found zh_CN for NieR: Automata: 尼尔 自动人形
+2026-02-15 00:48:50,322 - INFO - 22. Saved in database: NieR: Automata
+2026-02-15 00:48:50,322 - INFO - Finding game installation folders...
+2026-02-15 00:48:52,761 - INFO - Found installation folder for steam_id 2069250
+2026-02-15 00:48:52,765 - INFO - Found installation folder for steam_id 289440
+2026-02-15 00:48:52,769 - INFO - Found installation folder for steam_id 2407270
+2026-02-15 00:48:52,773 - INFO - Found installation folder for steam_id 502500
+2026-02-15 00:48:52,778 - INFO - Found installation folder for steam_id 1035050
+2026-02-15 00:48:52,782 - INFO - Found installation folder for steam_id 2328760
+2026-02-15 00:48:52,786 - INFO - Found installation folder for steam_id 2273430
+2026-02-15 00:48:52,790 - INFO - Found installation folder for steam_id 379430
+2026-02-15 00:48:52,794 - INFO - Found installation folder for steam_id 523210
+2026-02-15 00:48:52,800 - INFO - Found installation folder for steam_id 2966320
+2026-02-15 00:48:52,804 - INFO - Found installation folder for steam_id 2195410
+2026-02-15 00:48:52,808 - INFO - Found installation folder for steam_id 1808500
+2026-02-15 00:48:52,812 - INFO - Found installation folder for steam_id 3937550
+2026-02-15 00:48:52,816 - INFO - Found installation folder for steam_id 214230
+2026-02-15 00:48:52,820 - INFO - Found installation folder for steam_id 219780
+2026-02-15 00:48:52,824 - INFO - Found installation folder for steam_id 593280
+2026-02-15 00:48:52,829 - INFO - Found installation folder for steam_id 976620
+2026-02-15 00:48:52,832 - INFO - Found installation folder for steam_id 2129530
+2026-02-15 00:48:52,836 - INFO - Found installation folder for steam_id 524220
+2026-02-15 00:48:52,837 - INFO - Continue parameter: {'rccontinue': '20260214091741|2130485', 'continue': '-||'}
+2026-02-15 00:48:53,225 - INFO - 23. Saved in database: Resident Evil 3 (2020)
+2026-02-15 00:48:53,558 - INFO - 24. Saved in database: Resident Evil 2 (2019)
+2026-02-15 00:48:53,780 - INFO - Found zh_CN for Quake II: 雷神之锤2
+2026-02-15 00:48:53,781 - INFO - 25. Saved in database: Quake II
+2026-02-15 00:48:53,938 - INFO - Found zh_CN for Battlefield 6: 战地风云™ 6/战地6
+2026-02-15 00:48:53,939 - INFO - 26. Saved in database: Battlefield 6
+2026-02-15 00:48:57,209 - INFO - No save locations found: Rewired
+2026-02-15 00:48:57,353 - INFO - Path not specified from {{p|game}}: Tomb Raider: The Last Revelation
+2026-02-15 00:48:57,353 - INFO - Path not specified from {{p|game}}: Tomb Raider: The Last Revelation
+2026-02-15 00:48:57,354 - INFO - Path not specified from {{p|game}}: Tomb Raider: The Last Revelation
+2026-02-15 00:48:57,464 - INFO - Found zh_CN for Tomb Raider: The Last Revelation: 古墓丽影4：最后的启示
+2026-02-15 00:48:57,466 - INFO - 27. Saved in database: Tomb Raider: The Last Revelation
+2026-02-15 00:48:57,635 - INFO - Path not specified from {{p|game}}: Tomb Raider Chronicles
+2026-02-15 00:48:57,733 - INFO - Found zh_CN for Tomb Raider Chronicles: 古墓丽影5：历代记
+2026-02-15 00:48:57,734 - INFO - 28. Saved in database: Tomb Raider Chronicles
+2026-02-15 00:48:58,009 - INFO - Found zh_CN for Tomb Raider: The Angel of Darkness: 古墓丽影6：黑暗天使
+2026-02-15 00:48:58,010 - INFO - 29. Saved in database: Tomb Raider: The Angel of Darkness
+2026-02-15 00:48:58,339 - INFO - 30. Saved in database: Fear the Timeloop
+2026-02-15 00:48:58,584 - INFO - 31. Saved in database: Vivisector - Beast Within
+2026-02-15 00:48:58,722 - INFO - Found zh_CN for ANNO: Mutationem: 纪元：变异
+2026-02-15 00:48:58,724 - INFO - 32. Saved in database: ANNO: Mutationem
+2026-02-15 00:48:58,837 - INFO - No save locations found: Big Walk
+2026-02-15 00:48:58,978 - INFO - No save locations found: Super Meat Boy 3D
+2026-02-15 00:48:59,158 - INFO - Found zh_CN for Hourglass: 沙漏
+2026-02-15 00:48:59,160 - INFO - 33. Saved in database: Hourglass
+2026-02-15 00:48:59,397 - INFO - 34. Saved in database: Coffee Break (2005)
+2026-02-15 00:48:59,620 - INFO - 35. Saved in database: Drapline
+2026-02-15 00:48:59,765 - INFO - No save locations found: Metal Gear Solid 4: Guns of the Patriots - Master Collection Version
+2026-02-15 00:48:59,902 - INFO - Found zh_CN for Blasphemous 2: 神之亵渎2
+2026-02-15 00:48:59,904 - INFO - 36. Saved in database: Blasphemous 2
+2026-02-15 00:49:00,146 - INFO - 37. Saved in database: Superhero Simulator
+2026-02-15 00:49:00,454 - INFO - 38. Saved in database: The Lion King II: Simba's Pride GameBreak!
+2026-02-15 00:49:00,759 - INFO - Found zh_CN for Verne: The Shape of Fantasy: 凡尔纳：幻想之形
+2026-02-15 00:49:00,760 - INFO - 39. Saved in database: Verne: The Shape of Fantasy
+2026-02-15 00:49:01,019 - INFO - 40. Saved in database: Voices of the Void
+2026-02-15 00:49:01,312 - INFO - Found zh_CN for Vampire Survivors: 吸血鬼幸存者
+2026-02-15 00:49:01,313 - INFO - 41. Saved in database: Vampire Survivors
+2026-02-15 00:49:01,540 - INFO - No save locations found: Akhenaten: Rule as Pharaoh
+2026-02-15 00:49:01,815 - INFO - No save locations found: 4:LOOP
+2026-02-15 00:49:02,316 - INFO - 42. Saved in database: 500 Caliber Contractz
+2026-02-15 00:49:02,991 - INFO - Found zh_CN for Garry's Mod: 盖瑞模组
+2026-02-15 00:49:02,992 - INFO - 43. Saved in database: Garry's Mod
+2026-02-15 00:49:03,558 - INFO - Found zh_CN for 18 Wheels of Steel: Pedal to the Metal: 18轮大卡车：金属疯狂
+2026-02-15 00:49:03,560 - INFO - 44. Saved in database: 18 Wheels of Steel: Pedal to the Metal
+2026-02-15 00:49:04,166 - INFO - 45. Saved in database: Cats Hidden in Jingle Jam
+2026-02-15 00:49:04,512 - INFO - Found zh_CN for Ys: The Oath in Felghana: 伊苏：菲尔盖娜之誓约
+2026-02-15 00:49:04,513 - INFO - 46. Saved in database: Ys: The Oath in Felghana
+2026-02-15 00:49:04,814 - INFO - Found zh_CN for Nexus: The Jupiter Incident: 银河创世纪：木星事件
+2026-02-15 00:49:04,816 - INFO - 47. Saved in database: Nexus: The Jupiter Incident
+2026-02-15 00:49:05,034 - INFO - Found zh_CN for Mewgenics: 喵喵的结合
+2026-02-15 00:49:05,036 - INFO - 48. Saved in database: Mewgenics
+2026-02-15 00:49:05,253 - INFO - 49. Saved in database: 7 Sins
+2026-02-15 00:49:05,521 - INFO - Found zh_CN for Resident Evil: Operation Raccoon City: 生化危机：浣熊市行动
+2026-02-15 00:49:05,522 - INFO - 50. Saved in database: Resident Evil: Operation Raccoon City
+2026-02-15 00:49:05,522 - INFO - Finding game installation folders...
+2026-02-15 00:49:07,319 - INFO - Found installation folder for steam_id 952060
+2026-02-15 00:49:07,323 - INFO - Found installation folder for steam_id 883710
+2026-02-15 00:49:07,327 - INFO - Found installation folder for steam_id 2320
+2026-02-15 00:49:07,331 - INFO - Found installation folder for steam_id 2807960
+2026-02-15 00:49:07,335 - INFO - Found installation folder for steam_id 224980
+2026-02-15 00:49:07,338 - INFO - Found installation folder for steam_id 225000
+2026-02-15 00:49:07,342 - INFO - Found installation folder for steam_id 225020
+2026-02-15 00:49:07,346 - INFO - Found installation folder for steam_id 2918090
+2026-02-15 00:49:07,350 - INFO - Found installation folder for steam_id 1212410
+2026-02-15 00:49:07,354 - INFO - Found installation folder for steam_id 3103780
+2026-02-15 00:49:07,357 - INFO - Found installation folder for steam_id 2114740
+2026-02-15 00:49:07,361 - INFO - Found installation folder for steam_id 3531260
+2026-02-15 00:49:07,365 - INFO - Found installation folder for steam_id 1424600
+2026-02-15 00:49:07,369 - INFO - Found installation folder for steam_id 1794680
+2026-02-15 00:49:07,372 - INFO - Found installation folder for steam_id 4000
+2026-02-15 00:49:07,376 - INFO - Found installation folder for steam_id 337460
+2026-02-15 00:49:07,380 - INFO - Found installation folder for steam_id 2608050
+2026-02-15 00:49:07,384 - INFO - Found installation folder for steam_id 207320
+2026-02-15 00:49:07,388 - INFO - Found installation folder for steam_id 6420
+2026-02-15 00:49:07,391 - INFO - Found installation folder for steam_id 686060
+2026-02-15 00:49:07,395 - INFO - Found installation folder for steam_id 209100
+2026-02-15 00:49:07,395 - INFO - Continue parameter: {'rccontinue': '20260214163433|2130549', 'continue': '-||'}
+2026-02-15 00:49:07,652 - INFO - No save locations found: CDV USA
+2026-02-15 00:49:07,917 - INFO - Found zh_CN for Ys VI: The Ark of Napishtim: 伊苏6：纳比斯汀的方舟
+2026-02-15 00:49:07,919 - INFO - 51. Saved in database: Ys VI: The Ark of Napishtim
+2026-02-15 00:49:08,151 - INFO - Found zh_CN for Nioh 3: 仁王3
+2026-02-15 00:49:08,152 - INFO - 52. Saved in database: Nioh 3
+2026-02-15 00:49:08,386 - INFO - 53. Saved in database: Pacific Storm
+2026-02-15 00:49:08,554 - INFO - Found zh_CN for Dead or Alive 6: 死或生6
+2026-02-15 00:49:08,556 - INFO - 54. Saved in database: Dead or Alive 6
+2026-02-15 00:49:08,749 - INFO - Found zh_CN for ObsCure: 恶夜杀机
+2026-02-15 00:49:08,751 - INFO - 55. Saved in database: ObsCure
+2026-02-15 00:49:08,896 - INFO - No save locations found: Stellar Settlers: Space Base Builder
+2026-02-15 00:49:09,160 - INFO - 56. Saved in database: One-armed robber
+2026-02-15 00:49:09,300 - INFO - No save locations found: Wedding Witch
+2026-02-15 00:49:09,474 - INFO - Found zh_CN for Liar's Bar: 骗子酒吧
+2026-02-15 00:49:09,475 - INFO - 57. Saved in database: Liar's Bar
+2026-02-15 00:49:09,692 - INFO - 58. Saved in database: Hellforces
+2026-02-15 00:49:09,928 - INFO - 59. Saved in database: Ultimate Sheep Raccoon
+2026-02-15 00:49:10,249 - INFO - 60. Saved in database: Brewmaster: Beer Brewing Simulator
+2026-02-15 00:49:10,541 - INFO - 61. Saved in database: Persona 5: The Phantom X
+2026-02-15 00:49:10,725 - INFO - Path not specified from {{p|game}}: Conflict: Desert Storm
+2026-02-15 00:49:10,743 - INFO - Found zh_CN for Conflict: Desert Storm: 冲突：沙漠风暴
+2026-02-15 00:49:10,744 - INFO - 62. Saved in database: Conflict: Desert Storm
+2026-02-15 00:49:10,890 - WARNING - Unknown platform: Amazon.de
+2026-02-15 00:49:10,892 - INFO - No save locations found: Paradise Cracked
+2026-02-15 00:49:11,034 - INFO - No save locations found: Dear me, I was...
+2026-02-15 00:49:11,220 - INFO - No save locations found: Professional Underground League of Pain
+2026-02-15 00:49:11,362 - INFO - No save locations found: Relooted
+2026-02-15 00:49:11,648 - INFO - Found zh_CN for Winter Ember: 冬季余烬
+2026-02-15 00:49:11,650 - INFO - 63. Saved in database: Winter Ember
+2026-02-15 00:49:11,790 - INFO - No save locations found: Microcosm (1994)
+2026-02-15 00:49:11,921 - INFO - No save locations found: Red Shark
+2026-02-15 00:49:12,054 - INFO - No save locations found: Theatre of Death
+2026-02-15 00:49:12,248 - INFO - No save locations found: Rebirth Fantasy Online
+2026-02-15 00:49:12,444 - INFO - No save locations found: Daughter of Serpents
+2026-02-15 00:49:12,592 - INFO - Found zh_CN for Contract With the Devil: 与魔鬼的契约
+2026-02-15 00:49:12,593 - INFO - 64. Saved in database: Contract With the Devil
+2026-02-15 00:49:12,820 - INFO - 65. Saved in database: Power of Love
+2026-02-15 00:49:13,083 - INFO - 66. Saved in database: Glass Wing
+2026-02-15 00:49:13,311 - INFO - Found zh_CN for Momodora: Reverie under the Moonlight: 莫莫多拉：月下遐想
+2026-02-15 00:49:13,312 - INFO - 67. Saved in database: Momodora: Reverie under the Moonlight
+2026-02-15 00:49:13,472 - INFO - No save locations found: WebM
+2026-02-15 00:49:13,621 - INFO - No save locations found: Alien Virus
+2026-02-15 00:49:13,958 - INFO - Found zh_CN for Unreal: 虚幻
+2026-02-15 00:49:13,960 - INFO - 68. Saved in database: Unreal
+2026-02-15 00:49:14,177 - INFO - Found zh_CN for Sea Dogs: To Each His Own: 海狗：各得其所
+2026-02-15 00:49:14,178 - INFO - 69. Saved in database: Sea Dogs: To Each His Own
+2026-02-15 00:49:14,334 - INFO - Found zh_CN for Hotline Miami: 迈阿密热线
+2026-02-15 00:49:14,335 - INFO - 70. Saved in database: Hotline Miami
+2026-02-15 00:49:14,682 - INFO - 71. Saved in database: Command & Conquer: Generals
+2026-02-15 00:49:14,682 - INFO - Finding game installation folders...
+2026-02-15 00:49:16,503 - INFO - Found installation folder for steam_id 312540
+2026-02-15 00:49:16,507 - INFO - Found installation folder for steam_id 3681010
+2026-02-15 00:49:16,511 - INFO - Found installation folder for steam_id 11250
+2026-02-15 00:49:16,515 - INFO - Found installation folder for steam_id 838380
+2026-02-15 00:49:16,519 - INFO - Found installation folder for steam_id 254460
+2026-02-15 00:49:16,522 - INFO - Found installation folder for steam_id 2551020
+2026-02-15 00:49:16,526 - INFO - Found installation folder for steam_id 3097560
+2026-02-15 00:49:16,539 - INFO - Found installation folder for steam_id 2923350
+2026-02-15 00:49:16,543 - INFO - Found installation folder for steam_id 1569200
+2026-02-15 00:49:16,547 - INFO - Found installation folder for steam_id 3061570
+2026-02-15 00:49:16,551 - INFO - Found installation folder for steam_id 211780
+2026-02-15 00:49:16,554 - INFO - Found installation folder for steam_id 1417880
+2026-02-15 00:49:16,558 - INFO - Found installation folder for steam_id 409600
+2026-02-15 00:49:16,562 - INFO - Found installation folder for steam_id 368710
+2026-02-15 00:49:16,566 - INFO - Found installation folder for steam_id 382570
+2026-02-15 00:49:16,569 - INFO - Found installation folder for steam_id 428550
+2026-02-15 00:49:16,573 - INFO - Found installation folder for steam_id 13250
+2026-02-15 00:49:16,577 - INFO - Found installation folder for steam_id 223330
+2026-02-15 00:49:16,580 - INFO - Found installation folder for steam_id 219150
+2026-02-15 00:49:16,584 - INFO - Found installation folder for steam_id 2229870
+2026-02-15 00:49:16,584 - INFO - Continue parameter: {'rccontinue': '20260214212350|2130612', 'continue': '-||'}
+2026-02-15 00:49:16,977 - INFO - No save locations found: UPK Explorer
+2026-02-15 00:49:17,146 - INFO - No save locations found: Coffee Break
+2026-02-15 00:49:17,346 - INFO - Found zh_CN for Batman: Arkham Knight: 蝙蝠侠：阿甘骑士
+2026-02-15 00:49:17,348 - INFO - 72. Saved in database: Batman: Arkham Knight
+2026-02-15 00:49:17,486 - INFO - No save locations found: Lucky Luke: On the Daltons' Trail
+2026-02-15 00:49:17,642 - INFO - Found zh_CN for Cat Quest II: 猫咪斗恶龙2
+2026-02-15 00:49:17,644 - INFO - 73. Saved in database: Cat Quest II
+2026-02-15 00:49:17,929 - INFO - 74. Saved in database: Train Sim World 5
+2026-02-15 00:49:18,194 - INFO - 75. Saved in database: Chains
+2026-02-15 00:49:18,363 - INFO - No save locations found: Mina the Hollower
+2026-02-15 00:49:18,610 - INFO - 76. Saved in database: Diablo II
+2026-02-15 00:49:18,847 - INFO - 77. Saved in database: Verminest
+2026-02-15 00:49:19,080 - INFO - 78. Saved in database: 4 Elements
+2026-02-15 00:49:19,352 - INFO - 79. Saved in database: Art of Murder - FBI Confidential
+2026-02-15 00:49:19,625 - INFO - 80. Saved in database: The Water Horse: Legend of the Deep
+2026-02-15 00:49:19,761 - INFO - No save locations found: Lego Batman: Legacy of the Dark Knight
+2026-02-15 00:49:19,976 - INFO - Found zh_CN for Starsky & Hutch: 侠盗双雄
+2026-02-15 00:49:19,978 - INFO - 81. Saved in database: Starsky & Hutch
+2026-02-15 00:49:20,184 - INFO - No save locations found: List of unofficial ports
+2026-02-15 00:49:20,422 - INFO - Found zh_CN for Tiger Woods PGA Tour 2002: 泰格伍兹高尔夫球巡回赛2002
+2026-02-15 00:49:20,423 - INFO - 82. Saved in database: Tiger Woods PGA Tour 2002
+2026-02-15 00:49:20,660 - INFO - Found zh_CN for Tiger Woods PGA Tour 2003: 泰格伍兹高尔夫球巡回赛2003
+2026-02-15 00:49:20,663 - INFO - 83. Saved in database: Tiger Woods PGA Tour 2003
+2026-02-15 00:49:20,812 - INFO - Found zh_CN for Future Cop: LAPD: 未来战警
+2026-02-15 00:49:20,813 - INFO - 84. Saved in database: Future Cop: LAPD
+2026-02-15 00:49:21,070 - INFO - 85. Saved in database: Tiger Woods PGA Tour 2004
+2026-02-15 00:49:21,070 - INFO - Finding game installation folders...
+2026-02-15 00:49:22,921 - INFO - Found installation folder for steam_id 208650
+2026-02-15 00:49:22,925 - INFO - Found installation folder for steam_id 914710
+2026-02-15 00:49:22,929 - INFO - Found installation folder for steam_id 2967990
+2026-02-15 00:49:22,933 - INFO - Found installation folder for steam_id 11360
+2026-02-15 00:49:22,937 - INFO - Found installation folder for steam_id 47000
+2026-02-15 00:49:22,940 - INFO - Found installation folder for steam_id 809000
+2026-02-15 00:49:22,941 - INFO - All recent changes fetched!
